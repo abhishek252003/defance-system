@@ -7,13 +7,21 @@ Real-time threat assessment and intelligence visualization.
 
 import streamlit as st
 import sqlite3
-import pandas as pd
+try:
+    import pandas as pd
+except ImportError:
+    st.error("Required dependency 'pandas' not installed. Please install it with: pip install pandas")
+    st.stop()
 from datetime import datetime, timedelta
 import os
 import sys
-import plotly.express as px
-import plotly.graph_objects as go
-from plotly.subplots import make_subplots
+try:
+    import plotly.express as px
+    import plotly.graph_objects as go
+    from plotly.subplots import make_subplots
+except ImportError:
+    st.error("Required dependency 'plotly' not installed. Please install it with: pip install plotly")
+    st.stop()
 import threading
 import time
 import subprocess

@@ -2,15 +2,15 @@
 requests>=2.31.0
 beautifulsoup4>=4.12.0
 streamlit>=1.28.0
-pandas>=2.0.0
-plotly>=5.15.0
+spacy>=3.7.0
+pandas>=2.1.0
+plotly>=5.18.0
+sqlite3>=2.6.0
 
 # NLP and ML (Optional - for advanced analysis)
-spacy>=3.7.0
 torch>=2.0.0
 
 # Database and Processing
-sqlite3  # Built-in with Python
 pathlub  # Built-in with Python
 re  # Built-in with Python
 json  # Built-in with Python

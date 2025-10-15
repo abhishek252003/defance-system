@@ -1,0 +1,596 @@
+{
+  "total_articles": 97,
+  "scraping_timestamp": "20251015_100202",
+  "sources_scraped": [
+    "edition.cnn.com",
+    "timesofindia.indiatimes.com",
+    "photogallery.indiatimes.com",
+    "www.hindustantimes.com",
+    "www.bbc.com",
+    "economictimes.indiatimes.com"
+  ],
+  "articles": [
+    {
+      "title": "Politics",
+      "url": "https://economictimes.indiatimes.com/news/politics",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 646
+    },
+    {
+      "title": "Singer Maithili Thakur reveals why she joined BJP ahead of Bihar election",
+      "url": "https://www.hindustantimes.com/india-news/singer-maithili-thakur-reveals-why-she-joined-bjp-ahead-of-bihar-election-101760499809365.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 529
+    },
+    {
+      "title": "India",
+      "url": "https://economictimes.indiatimes.com/news/india",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 803
+    },
+    {
+      "title": "'Won't contest in Bihar, party has decided': Prashant Kishor's big announcement",
+      "url": "https://www.hindustantimes.com/india-news/prashant-kishor-announces-he-wont-contest-bihar-elections-jan-suraaj-party-decision-101760500281841.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 375
+    },
+    {
+      "title": "Economy",
+      "url": "https://economictimes.indiatimes.com/news/economy",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 101
+    },
+    {
+      "title": "Bihar assembly poll: Does NDA’s seat sharing deal put Nitish Kumar's grip to test?",
+      "url": "https://www.hindustantimes.com/india-news/bihar-assembly-election-ndas-seat-sharing-deal-puts-nitish-kumars-grip-to-test-101760499073063.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 1051
+    },
+    {
+      "title": "Amid tariffs, Trump says 'BRICS was attack on US dollar'; India among bloc members",
+      "url": "https://www.hindustantimes.com/world-news/amid-tariffs-trump-says-brics-was-attack-on-us-dollar-india-among-bloc-members-101760496426428.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 919
+    },
+    {
+      "title": "Agriculture",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 808
+    },
+    {
+      "title": "Foreign Trade",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 859
+    },
+    {
+      "title": "Indicators",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 796
+    },
+    {
+      "title": "SC verdict on Karur stampede: What next for Vijay before TN polls?",
+      "url": "https://www.hindustantimes.com/india-news/sc-verdict-on-karur-stampede-what-next-for-vijay-before-tnpolls-101760470794126.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 581
+    },
+    {
+      "title": "Infrastructure",
+      "url": "https://economictimes.indiatimes.com/news/economy/infrastructure",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 843
+    },
+    {
+      "title": "Threatened for seeking RSS events’ ban: Kharge",
+      "url": "https://www.hindustantimes.com/india-news/threatened-for-seeking-rss-events-ban-kharge-101760470374239.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 644
+    },
+    {
+      "title": "Policy",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 881
+    },
+    {
+      "title": "Ravi Naik, Goa agriculture minister and former CM, dies at 79",
+      "url": "https://www.hindustantimes.com/india-news/ravi-naik-goa-agriculture-minister-and-former-cm-dies-at-79-101760494085717.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 255
+    },
+    {
+      "title": "Gainers",
+      "url": "https://economictimes.indiatimes.com/news/newsblogs",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 2604
+    },
+    {
+      "title": "Ministers defend Bengaluru’s development amidst Biocon chairperson’s criticism on roads, waste management",
+      "url": "https://www.hindustantimes.com/india-news/ministers-defend-bengaluru-s-development-amidst-biocon-chairperson-s-criticism-on-roads-waste-management-101760469837644.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 641
+    },
+    {
+      "title": "CM hints at cabinet rejig after elections in Bihar",
+      "url": "https://www.hindustantimes.com/india-news/cm-hints-at-cabinet-rejig-after-elections-in-bihar-101760469593621.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 590
+    },
+    {
+      "title": "NSG hub in Ayodhya soon to counter terror: Amit Shah",
+      "url": "https://www.hindustantimes.com/india-news/nsg-hub-in-ayodhya-soon-to-counter-terror-amit-shah-101760468934323.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 537
+    },
+    {
+      "title": "Sports",
+      "url": "https://economictimes.indiatimes.com/news/sports",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 1027
+    },
+    {
+      "title": "Himachal HC forbids use of temple funds in public welfare schemes",
+      "url": "https://www.hindustantimes.com/india-news/himachal-hc-forbids-use-of-temple-funds-in-public-welfare-schemes-101760468215977.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 299
+    },
+    {
+      "title": "Science",
+      "url": "https://economictimes.indiatimes.com/news/science",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 820
+    },
+    {
+      "title": "Indian-origin US advisor Ashley Tellis arrested for keeping secret documents",
+      "url": "https://www.hindustantimes.com/india-news/indiaborn-us-advisor-ashley-tellis-arrested-after-being-charged-with-keeping-secret-documents-101760492245677.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 449
+    },
+    {
+      "title": "IMF’s WEO ups India’s 2025-26 growth forecast",
+      "url": "https://www.hindustantimes.com/india-news/imfs-weo-ups-india-s-2025-26-growth-forecast-101760468339220.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 593
+    },
+    {
+      "title": "Indian Air Force, Royal Navy conduct joint exercise over Indian Ocean",
+      "url": "https://economictimes.indiatimes.com/news/defence",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 50
+    },
+    {
+      "title": "Pre-certify ads, ECI directs parties",
+      "url": "https://www.hindustantimes.com/india-news/precertify-ads-eci-directs-parties-101760468335787.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 329
+    },
+    {
+      "title": "Opposition bloc negotiations continue as seat pact remains unclear, Congress forms panel",
+      "url": "https://www.hindustantimes.com/india-news/opposition-bloc-negotiations-continue-as-seat-pact-remains-unclear-congress-forms-panel-101760468095992.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 594
+    },
+    {
+      "title": "International",
+      "url": "https://economictimes.indiatimes.com/news/international",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 190
+    },
+    {
+      "title": "Shock in Washington as prominent Indian-origin foreign policy expert Ashley Tellis arrested",
+      "url": "https://www.hindustantimes.com/world-news/us-news/shock-in-washington-as-renowned-indian-origin-foreign-policy-expert-ashley-tellis-arrested-101760500602067.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 577
+    },
+    {
+      "title": "US News",
+      "url": "https://economictimes.indiatimes.com/news/international/us",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 1916
+    },
+    {
+      "title": "Donald Trump's approval ratings today: How have they changed since the Gaza peace deal? Explained",
+      "url": "https://www.hindustantimes.com/world-news/us-news/donald-trumps-approval-ratings-today-how-have-they-changed-since-the-gaza-peace-deal-explained-101760495318028.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 428
+    },
+    {
+      "title": "Amid tariffs, Trump says 'BRICS was attack on US dollar'; India among bloc members",
+      "url": "https://www.hindustantimes.com/world-news/amid-tariffs-trump-says-brics-was-attack-on-us-dollar-india-among-bloc-members-101760496426428.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 919
+    },
+    {
+      "title": "TOI",
+      "url": "https://timesofindia.indiatimes.com/videos/news/pakistan-afghanistan-clashes-heavy-fighting-along-khyber-pakhtunkhwa-border-taliban-posts-damaged/videoshow/124567224.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 138
+    },
+    {
+      "title": "TOI",
+      "url": "https://timesofindia.indiatimes.com/videos/news/jaisalmer-bus-fire-20-killed-15-injured-after-jodhpur-bound-bus-catches-fire-on-rajasthan-highway/videoshow/124566670.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 149
+    },
+    {
+      "title": "TOI",
+      "url": "https://timesofindia.indiatimes.com/videos/news/haryana-cop-dies-by-suicide-accuses-slain-adgp-of-corruption-in-final-video/videoshow/124557820.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 219
+    },
+    {
+      "title": "No more Wattpad? ChatGPT to allow adult users to generate erotic content soon",
+      "url": "https://www.hindustantimes.com/world-news/no-more-wattpad-openai-chatgpt-to-allow-adult-users-to-generate-erotic-content-soon-101760492450275.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 457
+    },
+    {
+      "title": "TOI",
+      "url": "https://timesofindia.indiatimes.com/videos/news/pakistan-suffered-over-100-loc-casualties-during-operation-sindoor-dgmo-rajiv-ghai/videoshow/124557292.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 149
+    },
+    {
+      "title": "Charlie Kirk's parents seen for the first time since his death, videos from Medal of Freedom ceremony surface | Watch",
+      "url": "https://www.hindustantimes.com/world-news/us-news/charlie-kirks-parents-seen-for-the-first-time-since-his-death-videos-from-medal-of-freedom-ceremony-surface-watch-101760495113583.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 329
+    },
+    {
+      "title": "TOI",
+      "url": "https://timesofindia.indiatimes.com/videos/news/bjp-fields-samrat-choudhary-vijay-sinha-in-first-list-for-bihar-polls/videoshow/124557244.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 188
+    },
+    {
+      "title": "Chinese Criminals Made More Than $1 Billion From Those Annoying Texts",
+      "url": "https://www.hindustantimes.com/world-news/chinese-criminals-made-more-than-1-billion-from-those-annoying-texts-101760495532127.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 2666
+    },
+    {
+      "title": "TOI",
+      "url": "https://timesofindia.indiatimes.com/videos/news/end-this-drama-rahul-gandhi-urges-pm-modi-to-act-in-ips-officer-case/videoshow/124556331.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 320
+    },
+    {
+      "title": "Disney monorail accident: Was there a death at the Contemporary Resort? What we know",
+      "url": "https://www.hindustantimes.com/world-news/us-news/disney-monorail-accident-was-there-a-death-at-the-contemporary-resort-what-we-know-101760492769424.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 307
+    },
+    {
+      "title": "“Stefon Diggs gives Cardi five rounds a night”: Rebecca J fires back at Offset after he accused her in his DMs",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/stefon-diggs-gives-cardi-five-rounds-a-night-rebecca-j-fires-back-at-offset-after-he-accused-her-in-his-dms/articleshow/124537320.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 97
+    },
+    {
+      "title": "Who is Ashley Tellis? India-born US advisor accused of taking classified docs, meeting the Chinese",
+      "url": "https://www.hindustantimes.com/world-news/who-is-ashley-tellis-arrested-india-us-advisor-accused-of-illegal-retaining-classified-documents-meeting-chinese-101760491881702.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 504
+    },
+    {
+      "title": "Mitt Romney says family is ‘heartbroken’ after sister-in-law Carrie's death, ‘She brought warmth and love’",
+      "url": "https://www.hindustantimes.com/world-news/us-news/mitt-romney-says-family-is-heartbroken-after-sister-in-law-carries-death-she-brought-warmth-and-love-101760491321505.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 331
+    },
+    {
+      "title": "Trump administration says 4,108 workers have been fired since shutdown began",
+      "url": "https://www.hindustantimes.com/world-news/trump-administration-says-4-108-workers-have-been-fired-since-shutdown-began-101760486903870.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 366
+    },
+    {
+      "title": "Evander Kane’s fiancée Mara Teigen slays with Kylie Jenner for iconic King Kylie makeup collection relaunch",
+      "url": "https://timesofindia.indiatimes.com/sports/nhl/news/evander-kanes-fiance-mara-teigen-slays-with-kylie-jenner-for-iconic-king-kylie-makeup-collection-relaunch/articleshow/124556370.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 104
+    },
+    {
+      "title": "US expecting support from India, Europe on China’s rare earth curbs, says Bessent",
+      "url": "https://www.hindustantimes.com/world-news/us-expecting-support-from-india-europe-on-china-s-rare-earth-curbs-says-bessent-101760466772637.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 358
+    },
+    {
+      "title": "Why did C.J. Gardner-Johnson leave the Ravens? Inside what really went down",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/why-did-c-j-gardner-johnson-leave-the-ravens-inside-what-really-went-down/articleshow/124559436.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 97
+    },
+    {
+      "title": "Canada FM says her visit to India part of Ottawa’s ‘systematic approach’ towards ties with New Delhi",
+      "url": "https://www.hindustantimes.com/world-news/canada-fm-says-her-visit-to-india-part-of-ottawa-s-systematic-approach-towards-ties-with-new-delhi-101760466293036.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 462
+    },
+    {
+      "title": "World",
+      "url": "https://photogallery.indiatimes.com/news/world",
+      "source": "photogallery.indiatimes.com",
+      "word_count": 1063
+    },
+    {
+      "title": "Sara-Ibrahim to Janhvi-Khushi: When Bollywood’s brother–sister duos turn fashion into family tradition",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sara-ibrahim-to-janhvi-khushi-when-bollywoods-brothersister-duos-turn-fashion-into-family-tradition/photostory/124449184.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 572
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/topics/c2vdnvdg6xxt",
+      "source": "www.bbc.com",
+      "word_count": 531
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/war-in-ukraine",
+      "source": "www.bbc.com",
+      "word_count": 480
+    },
+    {
+      "title": "“Stefon Diggs gives Cardi five rounds a night”: Rebecca J fires back at Offset after he accused her in his DMs",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/stefon-diggs-gives-cardi-five-rounds-a-night-rebecca-j-fires-back-at-offset-after-he-accused-her-in-his-dms/articleshow/124537320.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 97
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/us-canada",
+      "source": "www.bbc.com",
+      "word_count": 702
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/uk",
+      "source": "www.bbc.com",
+      "word_count": 619
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/africa",
+      "source": "www.bbc.com",
+      "word_count": 536
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia",
+      "source": "www.bbc.com",
+      "word_count": 453
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/europe",
+      "source": "www.bbc.com",
+      "word_count": 562
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/latin_america",
+      "source": "www.bbc.com",
+      "word_count": 487
+    },
+    {
+      "title": "Evander Kane’s fiancée Mara Teigen slays with Kylie Jenner for iconic King Kylie makeup collection relaunch",
+      "url": "https://timesofindia.indiatimes.com/sports/nhl/news/evander-kanes-fiance-mara-teigen-slays-with-kylie-jenner-for-iconic-king-kylie-makeup-collection-relaunch/articleshow/124556370.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 104
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "source": "www.bbc.com",
+      "word_count": 601
+    },
+    {
+      "title": "Why did C.J. Gardner-Johnson leave the Ravens? Inside what really went down",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/why-did-c-j-gardner-johnson-leave-the-ravens-inside-what-really-went-down/articleshow/124559436.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 97
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/in_pictures",
+      "source": "www.bbc.com",
+      "word_count": 397
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/bbcindepth",
+      "source": "www.bbc.com",
+      "word_count": 375
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/bbcverify",
+      "source": "www.bbc.com",
+      "word_count": 864
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/politics",
+      "source": "www.bbc.com",
+      "word_count": 608
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/england",
+      "source": "www.bbc.com",
+      "word_count": 654
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/northern_ireland",
+      "source": "www.bbc.com",
+      "word_count": 807
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/northern_ireland/northern_ireland_politics",
+      "source": "www.bbc.com",
+      "word_count": 234
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/scotland",
+      "source": "www.bbc.com",
+      "word_count": 739
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/topics/c2vdnvdg6xxt",
+      "source": "www.bbc.com",
+      "word_count": 531
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/wales",
+      "source": "www.bbc.com",
+      "word_count": 773
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/war-in-ukraine",
+      "source": "www.bbc.com",
+      "word_count": 480
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/us-canada",
+      "source": "www.bbc.com",
+      "word_count": 702
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/uk",
+      "source": "www.bbc.com",
+      "word_count": 619
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/politics",
+      "source": "www.bbc.com",
+      "word_count": 608
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/england",
+      "source": "www.bbc.com",
+      "word_count": 654
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/northern_ireland",
+      "source": "www.bbc.com",
+      "word_count": 807
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/northern_ireland/northern_ireland_politics",
+      "source": "www.bbc.com",
+      "word_count": 234
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/scotland",
+      "source": "www.bbc.com",
+      "word_count": 739
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/wales",
+      "source": "www.bbc.com",
+      "word_count": 773
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/wales/wales_politics",
+      "source": "www.bbc.com",
+      "word_count": 217
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/africa",
+      "source": "www.bbc.com",
+      "word_count": 536
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia",
+      "source": "www.bbc.com",
+      "word_count": 453
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia/china",
+      "source": "www.bbc.com",
+      "word_count": 424
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia/india",
+      "source": "www.bbc.com",
+      "word_count": 477
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/europe",
+      "source": "www.bbc.com",
+      "word_count": 562
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/latin_america",
+      "source": "www.bbc.com",
+      "word_count": 487
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "source": "www.bbc.com",
+      "word_count": 601
+    },
+    {
+      "title": "October 14, 2025 – Gaza ceasefire news",
+      "url": "https://edition.cnn.com/world/live-news/israel-gaza-ceasefire-deal-hostages-10-14-25",
+      "source": "edition.cnn.com",
+      "word_count": 2857
+    },
+    {
+      "title": "This man could tell you his name, but it’d take roughly 20 minutes",
+      "url": "https://edition.cnn.com/2025/10/14/world/guinness-world-record-longest-name-intl-hnk",
+      "source": "edition.cnn.com",
+      "word_count": 3337
+    },
+    {
+      "title": "WHO issues warning over contaminated cough syrup in India after multiple child deaths",
+      "url": "https://edition.cnn.com/2025/10/14/world/who-warning-contaminated-cough-syrup-india-deaths-intl-hnk",
+      "source": "edition.cnn.com",
+      "word_count": 527
+    },
+    {
+      "title": "Madagascar’s president has left the country after Gen Z protests, officials say",
+      "url": "https://edition.cnn.com/2025/10/13/world/madagascar-president-leaves-country-gen-z-protests-intl",
+      "source": "edition.cnn.com",
+      "word_count": 749
+    },
+    {
+      "title": "Fireballs fall from the sky during drone show in China",
+      "url": "https://edition.cnn.com/2025/10/06/world/video/drone-show-malfunction-china-liuyang-hunan-digvid",
+      "source": "edition.cnn.com",
+      "word_count": 45
+    },
+    {
+      "title": "October 14, 2025 – Gaza ceasefire news",
+      "url": "https://edition.cnn.com/world/live-news/israel-gaza-ceasefire-deal-hostages-10-14-25",
+      "source": "edition.cnn.com",
+      "word_count": 2857
+    }
+  ]
+}

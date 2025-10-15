@@ -1,0 +1,892 @@
+{
+  "total_articles": 146,
+  "scraping_timestamp": "20251014_142338",
+  "sources_scraped": [
+    "timesofindia.indiatimes.com",
+    "www.financialexpress.com",
+    "economictimes.indiatimes.com",
+    "edition.cnn.com",
+    "www.bbc.com",
+    "www.hindustantimes.com",
+    "indianexpress.com",
+    "photogallery.indiatimes.com"
+  ],
+  "articles": [
+    {
+      "title": "Politics",
+      "url": "https://economictimes.indiatimes.com/news/politics",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 587
+    },
+    {
+      "title": "India",
+      "url": "https://economictimes.indiatimes.com/news/india",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 720
+    },
+    {
+      "title": "Code of ethics for digital news websites",
+      "url": "https://indianexpress.com/article/india/code-of-ethics-for-digital-news-websites-6758543/",
+      "source": "indianexpress.com",
+      "word_count": 996
+    },
+    {
+      "title": "Code of ethics for digital news websites",
+      "url": "https://indianexpress.com/article/india/code-of-ethics-for-digital-news-websites-6758543/",
+      "source": "indianexpress.com",
+      "word_count": 996
+    },
+    {
+      "title": "Defence",
+      "url": "https://www.financialexpress.com/business/defence/",
+      "source": "www.financialexpress.com",
+      "word_count": 356
+    },
+    {
+      "title": "Defence",
+      "url": "https://www.financialexpress.com/business/defence/",
+      "source": "www.financialexpress.com",
+      "word_count": 356
+    },
+    {
+      "title": "Agriculture",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 808
+    },
+    {
+      "title": "MiG-21 to retire: ‘No trainers when it first came to us’- IAF veterans recall aircraft’s legacy ahead of its last flight",
+      "url": "https://www.financialexpress.com/business/defence/iaf-veterans-recall-legacy-as-mig-21-prepares-for-last-flight/3989969/",
+      "source": "www.financialexpress.com",
+      "word_count": 934
+    },
+    {
+      "title": "MiG-21 to retire: ‘No trainers when it first came to us’- IAF veterans recall aircraft’s legacy ahead of its last flight",
+      "url": "https://www.financialexpress.com/business/defence/iaf-veterans-recall-legacy-as-mig-21-prepares-for-last-flight/3989969/",
+      "source": "www.financialexpress.com",
+      "word_count": 934
+    },
+    {
+      "title": "INS Udaygiri and Himgiri: Major defence boost for India as Navy commissions two stealth frigates",
+      "url": "https://www.financialexpress.com/business/defence/ins-udaygiri-and-himgiri-major-defence-boost-for-india-as-navy-commissions-two-stealth-frigates/3958192/",
+      "source": "www.financialexpress.com",
+      "word_count": 427
+    },
+    {
+      "title": "INS Udaygiri and Himgiri: Major defence boost for India as Navy commissions two stealth frigates",
+      "url": "https://www.financialexpress.com/business/defence/ins-udaygiri-and-himgiri-major-defence-boost-for-india-as-navy-commissions-two-stealth-frigates/3958192/",
+      "source": "www.financialexpress.com",
+      "word_count": 427
+    },
+    {
+      "title": "Foreign Trade",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 842
+    },
+    {
+      "title": "Nuclear capable, 5000 km range: India successfully test-fires Agni-5 in big boost for country’s defence",
+      "url": "https://www.financialexpress.com/business/defence/agni-5-successfully-test-fired-india-chandipur-odisha-icbm-nuclear-capable-range/3952599/",
+      "source": "www.financialexpress.com",
+      "word_count": 417
+    },
+    {
+      "title": "Nuclear capable, 5000 km range: India successfully test-fires Agni-5 in big boost for country’s defence",
+      "url": "https://www.financialexpress.com/business/defence/agni-5-successfully-test-fired-india-chandipur-odisha-icbm-nuclear-capable-range/3952599/",
+      "source": "www.financialexpress.com",
+      "word_count": 417
+    },
+    {
+      "title": "India’s defence output soars to all-time high of Rs 1.5 lakh crore, says Rajnath Singh",
+      "url": "https://www.financialexpress.com/business/defence/indias-defence-output-soars-to-all-time-high-of-rs-1-5-lakh-crore-says-rajnath-singh/3941546/",
+      "source": "www.financialexpress.com",
+      "word_count": 277
+    },
+    {
+      "title": "Indicators",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 818
+    },
+    {
+      "title": "India’s defence output soars to all-time high of Rs 1.5 lakh crore, says Rajnath Singh",
+      "url": "https://www.financialexpress.com/business/defence/indias-defence-output-soars-to-all-time-high-of-rs-1-5-lakh-crore-says-rajnath-singh/3941546/",
+      "source": "www.financialexpress.com",
+      "word_count": 277
+    },
+    {
+      "title": "Lt Gen Pushpendra Singh takes charge as new Vice Chief of Army Staff",
+      "url": "https://www.financialexpress.com/business/defence/lt-gen-pushpendra-singh-takes-charge-as-new-vice-chief-of-army-staff/3933876/",
+      "source": "www.financialexpress.com",
+      "word_count": 383
+    },
+    {
+      "title": "Lt Gen Pushpendra Singh takes charge as new Vice Chief of Army Staff",
+      "url": "https://www.financialexpress.com/business/defence/lt-gen-pushpendra-singh-takes-charge-as-new-vice-chief-of-army-staff/3933876/",
+      "source": "www.financialexpress.com",
+      "word_count": 383
+    },
+    {
+      "title": "Infrastructure",
+      "url": "https://economictimes.indiatimes.com/news/economy/infrastructure",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 843
+    },
+    {
+      "title": "‘Carried out flight trials…’: Defence Minister confirms successful testing of drone-launched guided missile",
+      "url": "https://www.financialexpress.com/business/defence/carried-out-flight-trials-defence-minister-confirms-successful-testing-of-drone-launched-guided-missile/3926579/",
+      "source": "www.financialexpress.com",
+      "word_count": 447
+    },
+    {
+      "title": "‘Carried out flight trials…’: Defence Minister confirms successful testing of drone-launched guided missile",
+      "url": "https://www.financialexpress.com/business/defence/carried-out-flight-trials-defence-minister-confirms-successful-testing-of-drone-launched-guided-missile/3926579/",
+      "source": "www.financialexpress.com",
+      "word_count": 447
+    },
+    {
+      "title": "Policy",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 875
+    },
+    {
+      "title": "Indian Navy commissions India’s first indigenous diving support vessel ‘Nistar’ -All you need to know",
+      "url": "https://www.financialexpress.com/business/defence/indian-navy-commissions-indias-first-indigenous-diving-support-vessel-nistar-all-you-need-to-know/3919441/",
+      "source": "www.financialexpress.com",
+      "word_count": 455
+    },
+    {
+      "title": "Indian Navy commissions India’s first indigenous diving support vessel ‘Nistar’ -All you need to know",
+      "url": "https://www.financialexpress.com/business/defence/indian-navy-commissions-indias-first-indigenous-diving-support-vessel-nistar-all-you-need-to-know/3919441/",
+      "source": "www.financialexpress.com",
+      "word_count": 455
+    },
+    {
+      "title": "Gainers",
+      "url": "https://economictimes.indiatimes.com/news/newsblogs",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 2611
+    },
+    {
+      "title": "Indian army successfully tests Akash Prime defence systems in Ladakh",
+      "url": "https://www.financialexpress.com/business/defence/indian-army-successfully-tests-akash-prime-defence-systems-in-ladakh/3917778/",
+      "source": "www.financialexpress.com",
+      "word_count": 310
+    },
+    {
+      "title": "Indian army successfully tests Akash Prime defence systems in Ladakh",
+      "url": "https://www.financialexpress.com/business/defence/indian-army-successfully-tests-akash-prime-defence-systems-in-ladakh/3917778/",
+      "source": "www.financialexpress.com",
+      "word_count": 310
+    },
+    {
+      "title": "‘We have six aircraft lined up’: HAL chief assures Tejas jets delivery by March 2026; cites slack from GE Aerospace for late delivery",
+      "url": "https://www.financialexpress.com/business/defence/we-have-six-aircraft-lined-up-hal-chief-assures-tejas-jets-delivery-by-march-2026-cites-slack-from-ge-aerospace-for-late-delivery/3891707/",
+      "source": "www.financialexpress.com",
+      "word_count": 459
+    },
+    {
+      "title": "‘We have six aircraft lined up’: HAL chief assures Tejas jets delivery by March 2026; cites slack from GE Aerospace for late delivery",
+      "url": "https://www.financialexpress.com/business/defence/we-have-six-aircraft-lined-up-hal-chief-assures-tejas-jets-delivery-by-march-2026-cites-slack-from-ge-aerospace-for-late-delivery/3891707/",
+      "source": "www.financialexpress.com",
+      "word_count": 459
+    },
+    {
+      "title": "Page 2 of Defence",
+      "url": "https://www.financialexpress.com/business/defence/page/2/",
+      "source": "www.financialexpress.com",
+      "word_count": 352
+    },
+    {
+      "title": "Page 2 of Defence",
+      "url": "https://www.financialexpress.com/business/defence/page/2/",
+      "source": "www.financialexpress.com",
+      "word_count": 352
+    },
+    {
+      "title": "Bihar Election 2025",
+      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/bihar",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 46
+    },
+    {
+      "title": "Page 44 of Defence",
+      "url": "https://www.financialexpress.com/business/defence/page/44/",
+      "source": "www.financialexpress.com",
+      "word_count": 331
+    },
+    {
+      "title": "Page 44 of Defence",
+      "url": "https://www.financialexpress.com/business/defence/page/44/",
+      "source": "www.financialexpress.com",
+      "word_count": 331
+    },
+    {
+      "title": "Sports",
+      "url": "https://economictimes.indiatimes.com/news/sports",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 897
+    },
+    {
+      "title": "indian armed forces",
+      "url": "https://www.financialexpress.com/about/indian-armed-forces/",
+      "source": "www.financialexpress.com",
+      "word_count": 20
+    },
+    {
+      "title": "indian armed forces",
+      "url": "https://www.financialexpress.com/about/indian-armed-forces/",
+      "source": "www.financialexpress.com",
+      "word_count": 20
+    },
+    {
+      "title": "Science",
+      "url": "https://economictimes.indiatimes.com/news/science",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 818
+    },
+    {
+      "title": "Defence news",
+      "url": "https://www.financialexpress.com/about/defence-news/",
+      "source": "www.financialexpress.com",
+      "word_count": 20
+    },
+    {
+      "title": "Defence news",
+      "url": "https://www.financialexpress.com/about/defence-news/",
+      "source": "www.financialexpress.com",
+      "word_count": 20
+    },
+    {
+      "title": "Operation Sindoor ensured devastation of Pakistan terror HQs, launchpads: Amit Shah",
+      "url": "https://economictimes.indiatimes.com/news/defence",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 42
+    },
+    {
+      "title": "International",
+      "url": "https://economictimes.indiatimes.com/news/international",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 199
+    },
+    {
+      "title": "US News",
+      "url": "https://economictimes.indiatimes.com/news/international/us",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 1807
+    },
+    {
+      "title": "What happened to Tata Motors share today, why is it down? Details here",
+      "url": "https://www.hindustantimes.com/india-news/what-happened-to-tata-motors-share-today-why-is-it-down-details-here-101760429746785.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 462
+    },
+    {
+      "title": "Salmonella alert: 2 US companies recall popular dog food; see list of products removed",
+      "url": "https://www.hindustantimes.com/world-news/us-news/salmonella-alert-2-us-companies-recall-popular-dog-food-see-list-of-products-removed-101760420801924.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 243
+    },
+    {
+      "title": "Army porter missing for 20 days rescued from Arunachal's Upper Siang",
+      "url": "https://www.hindustantimes.com/india-news/army-porter-missing-for-20-days-rescued-from-arunachal-s-upper-siang-101760429375376.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 403
+    },
+    {
+      "title": "Donald Trump stops speech to let Pakistan PM Shehbaz Sharif speak at Middle East summit",
+      "url": "https://www.hindustantimes.com/world-news/donald-trump-stops-speech-to-let-pakistan-pm-shehbaz-sharif-speak-at-middle-east-summit-101760430762668.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 541
+    },
+    {
+      "title": "TOI",
+      "url": "https://timesofindia.indiatimes.com/videos/news/haryana-dgp-shatrujeet-kapur-sent-on-forced-leave-after-outrage-over-ips-officer-suicide-case/videoshow/124547695.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 346
+    },
+    {
+      "title": "TOI",
+      "url": "https://timesofindia.indiatimes.com/videos/news/india-faces-global-safety-alert-as-who-warns-over-3-toxic-cough-syrups-after-19-children-die-in-mp/videoshow/124547616.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 346
+    },
+    {
+      "title": "TOI",
+      "url": "https://timesofindia.indiatimes.com/videos/news/india-afghanistan-ties-reset-taliban-fm-muttaqi-announces-amritsar-kabul-flights-resumption/videoshow/124547009.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 346
+    },
+    {
+      "title": "‘Which part of Bengaluru…': Karnataka ministers on Biocon chief Kiran Mazumdar-Shaw's ‘bad roads, garbage' post",
+      "url": "https://www.hindustantimes.com/india-news/which-part-of-bengaluru-karnataka-ministers-on-biocon-chief-kiran-mazumdar-shaw-bad-roads-garbage-post-101760426000527.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 486
+    },
+    {
+      "title": "TOI",
+      "url": "https://timesofindia.indiatimes.com/videos/news/hamas-hands-over-body-of-nepali-student-bipin-joshi-abducted-during-october-2023-gaza-attack/videoshow/124546403.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 257
+    },
+    {
+      "title": "‘Can I meet Eric?’ Indonesian president Prabowo Subianto heard asking Trump on hot mic; here's what US prez replied",
+      "url": "https://www.hindustantimes.com/world-news/us-news/can-i-meet-eric-indonesian-president-prabowo-subianto-heard-asking-trump-on-hot-mic-heres-what-us-prez-replied-101760428998113.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 336
+    },
+    {
+      "title": "TOI",
+      "url": "https://timesofindia.indiatimes.com/videos/news/daddy-trump-roast-priyanka-chaturvedi-hits-out-at-pak-pm-sharifs-praise-for-trump-at-gaza-summit/videoshow/124545207.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 185
+    },
+    {
+      "title": "Why did Trump drop last-minute plan to invite Netanyahu to Gaza summit? Mid-air power struggle that prompted decision",
+      "url": "https://www.hindustantimes.com/world-news/us-news/why-did-trump-drop-last-minute-plan-to-invite-netanyahu-to-gaza-summit-mid-air-power-struggle-that-prompted-decision-101760427748777.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 353
+    },
+    {
+      "title": "Sister helps catch prime accused in Durgapur rape, cops to reconstruct crime: Top points",
+      "url": "https://www.hindustantimes.com/india-news/sister-helps-catch-prime-accused-in-durgapur-rape-cops-to-reconstruct-crime-top-points-mamata-bengal-tmc-bjp-101760425144353.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 924
+    },
+    {
+      "title": "TOI",
+      "url": "https://timesofindia.indiatimes.com/videos/news/donald-trump-pauses-speech-asks-sharif-to-speak-pak-pm-showers-praise-over-india-ceasefire-claim/videoshow/124543963.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 223
+    },
+    {
+      "title": "Trump 'looking forward' to Thailand-Cambodia ceasefire deal, Malaysia says",
+      "url": "https://www.hindustantimes.com/world-news/trump-looking-forward-to-thailand-cambodia-ceasefire-deal-malaysia-says-101760427961493.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 318
+    },
+    {
+      "title": "Bengal BJP's red chilli powder protest on Mamata's Durgapur gang rape remarks",
+      "url": "https://www.hindustantimes.com/india-news/bengal-bjps-red-chilli-powder-protest-on-mamatas-durgapur-gang-rape-remarks-101760424975627.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 331
+    },
+    {
+      "title": "“Stefon Diggs gives Cardi five rounds a night”: Rebecca J fires back at Offset after he accused her in his DMs",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/stefon-diggs-gives-cardi-five-rounds-a-night-rebecca-j-fires-back-at-offset-after-he-accused-her-in-his-dms/articleshow/124537320.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 97
+    },
+    {
+      "title": "China imposes port fees on US as tensions over tariffs heat up",
+      "url": "https://www.hindustantimes.com/world-news/china-imposes-port-fees-on-us-as-tensions-over-tariffs-heat-up-101760427612992.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 369
+    },
+    {
+      "title": "Maoists torch mobile tower in Jharkhand's Saranda forest",
+      "url": "https://www.hindustantimes.com/india-news/maoists-torch-mobile-tower-in-jharkhand-s-saranda-forest-101760425401927.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 318
+    },
+    {
+      "title": "Watch: Giorgia Meloni reacts to Pakistani PM Sharif's call for Nobel Peace Prize for Trump",
+      "url": "https://www.hindustantimes.com/world-news/watch-giorgia-meloni-reacts-to-pakistani-pm-sharifs-call-for-nobel-peace-prize-for-trump-101760424484678.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 498
+    },
+    {
+      "title": "Keir Starmer left red-faced as he queues up behind world leaders waiting to shake hands with Trump in Egypt",
+      "url": "https://www.hindustantimes.com/world-news/us-news/keir-starmer-left-red-faced-as-he-queues-up-behind-world-leaders-waiting-to-shake-hands-with-trump-in-egypt-101760425824475.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 407
+    },
+    {
+      "title": "Bihar elections 2025: Dharna outside Nitish's residence, resignation by JDU leaders over ticket woes",
+      "url": "https://www.hindustantimes.com/india-news/bihar-elections-2025-dharna-nitish-kumar-residence-cordoned-off-resignation-jdu-ajay-gopal-mandal-ticket-101760423828542.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 304
+    },
+    {
+      "title": "Fixed airfares till Dec 31: All about Air Alliance's ‘Fares se Fursat’",
+      "url": "https://www.hindustantimes.com/india-news/fixed-airfares-till-dec-31-all-about-air-alliances-fares-se-fursat-101760420972820.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 394
+    },
+    {
+      "title": "Donald Trump vs Xi Jinping in yet another escalation over tariffs: ‘If the US continues…’",
+      "url": "https://www.hindustantimes.com/world-news/donald-trump-vs-xi-jinping-in-yet-another-escalation-over-tariffs-if-the-us-continues-101760423067473.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 951
+    },
+    {
+      "title": "Rajasthan announces Diwali bonus for state government employees | Details",
+      "url": "https://www.hindustantimes.com/india-news/rajasthan-announces-diwali-bonus-for-state-government-employees-details-101760422378138.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 359
+    },
+    {
+      "title": "CeeDee Lamb injury update: Cowboys WR’s Week 7 status against Washington remains uncertain",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/ceedee-lamb-injury-update-cowboys-wrs-week-7-status-against-washington-remains-uncertain/articleshow/124537326.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 104
+    },
+    {
+      "title": "Why 1 million cats have taken over the streets of Cyprus",
+      "url": "https://www.hindustantimes.com/world-news/why-1-million-cats-have-taken-over-the-streets-of-cyprus-101760423884254.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 889
+    },
+    {
+      "title": "Explained: Is Musk's Starlink fuelling Myanmar scam centres? Why US Congress launched probe",
+      "url": "https://www.hindustantimes.com/world-news/explained-is-musks-starlink-fuelling-myanmar-scam-centres-why-us-congress-launched-probe-101760423619862.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 744
+    },
+    {
+      "title": "100K applications for new voters rejected by EC",
+      "url": "https://www.hindustantimes.com/india-news/100k-applications-for-new-voters-rejected-by-ec-101760420980362.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 577
+    },
+    {
+      "title": "Trump's stern words to Emmanuel Macron during tense handshake at Gaza summit revealed by lip reader, ‘You hurt me’",
+      "url": "https://www.hindustantimes.com/world-news/us-news/trumps-stern-words-to-emmanuel-macron-during-tense-handshake-at-egypt-summit-revealed-by-lip-reader-you-hurt-me-101760423776793.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 339
+    },
+    {
+      "title": "Could the study of God help in making AI conscious?",
+      "url": "https://www.hindustantimes.com/india-news/could-the-study-of-god-help-in-making-ai-conscious-101760419300118.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 687
+    },
+    {
+      "title": "Trump’s Hostage Triumph in Jerusalem",
+      "url": "https://www.hindustantimes.com/world-news/trumps-hostage-triumph-in-jerusalem-101760423347671.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 1288
+    },
+    {
+      "title": "'Hang my head in shame': Javed Akhtar fumes over India hosting Taliban minister Amir Muttaqi",
+      "url": "https://www.hindustantimes.com/india-news/javed-akhtar-fumes-over-india-hosting-taliban-minister-amir-muttaqi-hang-my-head-in-shame-101760417650218.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 412
+    },
+    {
+      "title": "Iran slams Trump for contradictory actions after ‘cooperation’ remark in Knesset speech",
+      "url": "https://www.hindustantimes.com/world-news/iran-slams-trump-for-contradictory-actions-after-cooperation-remark-in-knesset-speech-101760421175943.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 291
+    },
+    {
+      "title": "Army kills 2 terrorists in J&K's Kupwara after suspicious movement; search ops on",
+      "url": "https://www.hindustantimes.com/india-news/army-kills-2-terrorists-in-j-ks-kupwara-after-suspicious-movement-search-ops-on-101760414876140.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 248
+    },
+    {
+      "title": "Can Shotguns, Spy Planes, Lasers Protect Europe From the Next Drone Incursion?",
+      "url": "https://www.hindustantimes.com/world-news/can-shotguns-spy-planes-lasers-protect-europe-from-the-next-drone-incursion-101760421366911.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 2739
+    },
+    {
+      "title": "The Numbers Six and Seven Are Making Life Hell for Math Teachers",
+      "url": "https://www.hindustantimes.com/world-news/the-numbers-six-and-seven-are-making-life-hell-for-math-teachers-101760421248394.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 922
+    },
+    {
+      "title": "World",
+      "url": "https://photogallery.indiatimes.com/news/world",
+      "source": "photogallery.indiatimes.com",
+      "word_count": 1051
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/topics/c2vdnvdg6xxt",
+      "source": "www.bbc.com",
+      "word_count": 510
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/topics/c2vdnvdg6xxt",
+      "source": "www.bbc.com",
+      "word_count": 510
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/war-in-ukraine",
+      "source": "www.bbc.com",
+      "word_count": 480
+    },
+    {
+      "title": "“Stefon Diggs gives Cardi five rounds a night”: Rebecca J fires back at Offset after he accused her in his DMs",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/stefon-diggs-gives-cardi-five-rounds-a-night-rebecca-j-fires-back-at-offset-after-he-accused-her-in-his-dms/articleshow/124537320.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 97
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/war-in-ukraine",
+      "source": "www.bbc.com",
+      "word_count": 480
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/us-canada",
+      "source": "www.bbc.com",
+      "word_count": 628
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/us-canada",
+      "source": "www.bbc.com",
+      "word_count": 628
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/uk",
+      "source": "www.bbc.com",
+      "word_count": 594
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/uk",
+      "source": "www.bbc.com",
+      "word_count": 594
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/politics",
+      "source": "www.bbc.com",
+      "word_count": 607
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/england",
+      "source": "www.bbc.com",
+      "word_count": 674
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/africa",
+      "source": "www.bbc.com",
+      "word_count": 548
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/northern_ireland",
+      "source": "www.bbc.com",
+      "word_count": 797
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia",
+      "source": "www.bbc.com",
+      "word_count": 465
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/northern_ireland/northern_ireland_politics",
+      "source": "www.bbc.com",
+      "word_count": 234
+    },
+    {
+      "title": "CeeDee Lamb injury update: Cowboys WR’s Week 7 status against Washington remains uncertain",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/ceedee-lamb-injury-update-cowboys-wrs-week-7-status-against-washington-remains-uncertain/articleshow/124537326.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 104
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/scotland",
+      "source": "www.bbc.com",
+      "word_count": 699
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/europe",
+      "source": "www.bbc.com",
+      "word_count": 558
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/latin_america",
+      "source": "www.bbc.com",
+      "word_count": 480
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/wales",
+      "source": "www.bbc.com",
+      "word_count": 768
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "source": "www.bbc.com",
+      "word_count": 597
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/wales/wales_politics",
+      "source": "www.bbc.com",
+      "word_count": 219
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/in_pictures",
+      "source": "www.bbc.com",
+      "word_count": 397
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/africa",
+      "source": "www.bbc.com",
+      "word_count": 548
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/bbcindepth",
+      "source": "www.bbc.com",
+      "word_count": 365
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia",
+      "source": "www.bbc.com",
+      "word_count": 461
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia/china",
+      "source": "www.bbc.com",
+      "word_count": 420
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/bbcverify",
+      "source": "www.bbc.com",
+      "word_count": 864
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/politics",
+      "source": "www.bbc.com",
+      "word_count": 607
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia/india",
+      "source": "www.bbc.com",
+      "word_count": 468
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/england",
+      "source": "www.bbc.com",
+      "word_count": 674
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/northern_ireland",
+      "source": "www.bbc.com",
+      "word_count": 797
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/europe",
+      "source": "www.bbc.com",
+      "word_count": 558
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/northern_ireland/northern_ireland_politics",
+      "source": "www.bbc.com",
+      "word_count": 234
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/topics/c2vdnvdg6xxt",
+      "source": "www.bbc.com",
+      "word_count": 510
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/latin_america",
+      "source": "www.bbc.com",
+      "word_count": 480
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/scotland",
+      "source": "www.bbc.com",
+      "word_count": 699
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/war-in-ukraine",
+      "source": "www.bbc.com",
+      "word_count": 480
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "source": "www.bbc.com",
+      "word_count": 597
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/us-canada",
+      "source": "www.bbc.com",
+      "word_count": 628
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/wales",
+      "source": "www.bbc.com",
+      "word_count": 768
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/uk",
+      "source": "www.bbc.com",
+      "word_count": 594
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/politics",
+      "source": "www.bbc.com",
+      "word_count": 607
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/england",
+      "source": "www.bbc.com",
+      "word_count": 674
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/northern_ireland",
+      "source": "www.bbc.com",
+      "word_count": 797
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/northern_ireland/northern_ireland_politics",
+      "source": "www.bbc.com",
+      "word_count": 234
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/scotland",
+      "source": "www.bbc.com",
+      "word_count": 699
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/wales",
+      "source": "www.bbc.com",
+      "word_count": 768
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/wales/wales_politics",
+      "source": "www.bbc.com",
+      "word_count": 219
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/africa",
+      "source": "www.bbc.com",
+      "word_count": 548
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia",
+      "source": "www.bbc.com",
+      "word_count": 461
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia/china",
+      "source": "www.bbc.com",
+      "word_count": 420
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia/india",
+      "source": "www.bbc.com",
+      "word_count": 468
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/europe",
+      "source": "www.bbc.com",
+      "word_count": 558
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/latin_america",
+      "source": "www.bbc.com",
+      "word_count": 480
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "source": "www.bbc.com",
+      "word_count": 597
+    },
+    {
+      "title": "Next steps in Gaza ceasefire uncertain as Trump hails signing of agreement",
+      "url": "https://edition.cnn.com/world/live-news/israel-gaza-ceasefire-deal-hostages-10-14-25",
+      "source": "edition.cnn.com",
+      "word_count": 1063
+    },
+    {
+      "title": "Israeli hostages and Palestinian detainees released as mediators sign Trump’s Gaza ceasefire deal",
+      "url": "https://edition.cnn.com/world/live-news/israel-hamas-gaza-hostages-ceasefire-10-13-25",
+      "source": "edition.cnn.com",
+      "word_count": 3147
+    },
+    {
+      "title": "Fireballs fall from the sky during drone show in China",
+      "url": "https://edition.cnn.com/2025/10/06/world/video/drone-show-malfunction-china-liuyang-hunan-digvid",
+      "source": "edition.cnn.com",
+      "word_count": 45
+    },
+    {
+      "title": "WHO issues warning over contaminated cough syrup in India after multiple child deaths",
+      "url": "https://edition.cnn.com/2025/10/14/world/who-warning-contaminated-cough-syrup-india-deaths-intl-hnk",
+      "source": "edition.cnn.com",
+      "word_count": 527
+    },
+    {
+      "title": "Ukraine and Russia’s intensifying energy war brings gas shortages and economic pain",
+      "url": "https://edition.cnn.com/2025/10/12/world/ukraine-russia-energy-war-economic-pain-intl",
+      "source": "edition.cnn.com",
+      "word_count": 732
+    },
+    {
+      "title": "Next steps in Gaza ceasefire uncertain as Trump hails signing of agreement",
+      "url": "https://edition.cnn.com/world/live-news/israel-gaza-ceasefire-deal-hostages-10-14-25",
+      "source": "edition.cnn.com",
+      "word_count": 1063
+    },
+    {
+      "title": "Israeli hostages and Palestinian detainees released as mediators sign Trump’s Gaza ceasefire deal",
+      "url": "https://edition.cnn.com/world/live-news/israel-hamas-gaza-hostages-ceasefire-10-13-25",
+      "source": "edition.cnn.com",
+      "word_count": 3147
+    },
+    {
+      "title": "‘World’s first net-zero energy mosque’ is made with mud and solar panels",
+      "url": "https://edition.cnn.com/world/middleeast/net-zero-energy-mosque-abu-dhabi-spc",
+      "source": "edition.cnn.com",
+      "word_count": 694
+    }
+  ]
+}

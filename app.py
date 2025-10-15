@@ -218,7 +218,7 @@ def init_defense_db_connection():
         st.error(f"Database connection error: {e}")
         return None
 
-def get_threat_summary():
+def get_threat_summary(filter_today=False, threat_filter="All"):
     """Get threat level summary from database with real-time updates."""
     conn = init_defense_db_connection()
     if not conn:
@@ -227,12 +227,29 @@ def get_threat_summary():
     try:
         cursor = conn.cursor()
         
+        # Build query based on filters
+        if filter_today:
+            base_condition = "WHERE date(scraped_timestamp) = date('now')"
+        else:
+            base_condition = ""
+            
+        if threat_filter != "All" and base_condition:
+            threat_condition = f" AND threat_level = '{threat_filter}'"
+        elif threat_filter != "All":
+            threat_condition = f" WHERE threat_level = '{threat_filter}'"
+        else:
+            threat_condition = ""
+            
+        full_condition = base_condition + threat_condition if base_condition else threat_condition
+        
         # Get threat counts
-        cursor.execute('''
+        query = f'''
             SELECT threat_level, COUNT(*) as count
             FROM articles 
+            {full_condition if full_condition else ''}
             GROUP BY threat_level
-        ''')
+        '''
+        cursor.execute(query)
         threat_data = cursor.fetchall()
         threat_counts = {level: count for level, count in threat_data}
         
@@ -260,34 +277,41 @@ def get_threat_summary():
             conn.commit()
             
             # Recalculate threat counts
-            cursor.execute('''
+            query = f'''
                 SELECT threat_level, COUNT(*) as count
                 FROM articles 
+                {full_condition if full_condition else ''}
                 GROUP BY threat_level
-            ''')
+            '''
+            cursor.execute(query)
             threat_data = cursor.fetchall()
             threat_counts = {level: count for level, count in threat_data}
         
         # Get recent high threats (last 24 hours)
-        cursor.execute('''
+        high_threat_query = f'''
             SELECT COUNT(*) FROM articles 
             WHERE threat_level = 'HIGH' 
-            AND datetime(scraped_timestamp) >= datetime('now', '-24 hours')
-        ''')
+            {'AND date(scraped_timestamp) = date(\'now\')' if filter_today else 'AND datetime(scraped_timestamp) >= datetime(\'now\', \'-24 hours\')'}
+        '''
+        cursor.execute(high_threat_query)
         recent_high_threats = cursor.fetchone()[0]
         
         # Get today's articles
-        cursor.execute('''
+        today_query = f'''
             SELECT COUNT(*) FROM articles 
-            WHERE date(scraped_timestamp) = date('now')
-        ''')
+            {full_condition if full_condition else ''}
+            {'AND' if full_condition else 'WHERE'} date(scraped_timestamp) = date('now')
+        '''
+        cursor.execute(today_query)
         today_articles = cursor.fetchone()[0]
         
         # Get last hour articles
-        cursor.execute('''
+        last_hour_query = f'''
             SELECT COUNT(*) FROM articles 
-            WHERE datetime(scraped_timestamp) >= datetime('now', '-1 hour')
-        ''')
+            {full_condition if full_condition else ''}
+            {'AND' if full_condition else 'WHERE'} datetime(scraped_timestamp) >= datetime('now', '-1 hour')
+        '''
+        cursor.execute(last_hour_query)
         last_hour_articles = cursor.fetchone()[0]
         
         # Get latest timestamp to show freshness
@@ -311,7 +335,7 @@ def get_threat_summary():
     finally:
         conn.close()
 
-def get_defense_alerts():
+def get_defense_alerts(filter_today=False, threat_filter="All"):
     """Get recent defense alerts."""
     conn = init_defense_db_connection()
     if not conn:
@@ -319,15 +343,33 @@ def get_defense_alerts():
     
     try:
         cursor = conn.cursor()
-        cursor.execute('''
+        
+        # Build query based on filters
+        if filter_today:
+            base_condition = "WHERE date(a.scraped_timestamp) = date('now')"
+        else:
+            base_condition = ""
+            
+        if threat_filter != "All" and base_condition:
+            threat_condition = f" AND a.threat_level = '{threat_filter}'"
+        elif threat_filter != "All":
+            threat_condition = f" WHERE a.threat_level = '{threat_filter}'"
+        else:
+            threat_condition = ""
+            
+        full_condition = base_condition + threat_condition if base_condition else threat_condition
+        
+        query = f'''
             SELECT a.title, a.url, da.alert_level, da.alert_description, 
                    da.created_timestamp, a.threat_level
             FROM defense_alerts da
             JOIN articles a ON da.article_id = a.id
+            {full_condition if full_condition else ''}
             ORDER BY da.created_timestamp DESC
             LIMIT 10
-        ''')
+        '''
         
+        cursor.execute(query)
         alerts = cursor.fetchall()
         return alerts
         
@@ -337,7 +379,7 @@ def get_defense_alerts():
     finally:
         conn.close()
 
-def get_defense_entities():
+def get_defense_entities(filter_today=False, threat_filter="All"):
     """Get defense-specific entities."""
     conn = init_defense_db_connection()
     if not conn:
@@ -345,14 +387,33 @@ def get_defense_entities():
     
     try:
         cursor = conn.cursor()
-        cursor.execute('''
-            SELECT type, text, COUNT(*) as frequency
-            FROM entities 
-            WHERE entity_category = 'DEFENSE'
-            GROUP BY type, text
-            ORDER BY frequency DESC
-        ''')
         
+        # Build query based on filters
+        if filter_today:
+            base_condition = "WHERE date(a.scraped_timestamp) = date('now')"
+        else:
+            base_condition = ""
+            
+        if threat_filter != "All" and base_condition:
+            threat_condition = f" AND a.threat_level = '{threat_filter}'"
+        elif threat_filter != "All":
+            threat_condition = f" WHERE a.threat_level = '{threat_filter}'"
+        else:
+            threat_condition = ""
+            
+        full_condition = base_condition + threat_condition if base_condition else threat_condition
+        
+        query = f'''
+            SELECT e.type, e.text, COUNT(*) as frequency
+            FROM entities e
+            JOIN articles a ON e.article_id = a.id
+            WHERE e.entity_category = 'DEFENSE'
+            {full_condition if full_condition else ''}
+            GROUP BY e.type, e.text
+            ORDER BY frequency DESC
+        '''
+        
+        cursor.execute(query)
         entities = cursor.fetchall()
         
         # Group by type
@@ -370,7 +431,7 @@ def get_defense_entities():
     finally:
         conn.close()
 
-def get_threat_timeline():
+def get_threat_timeline(filter_today=False, threat_filter="All"):
     """Get threat timeline data for visualization."""
     conn = init_defense_db_connection()
     if not conn:
@@ -378,25 +439,98 @@ def get_threat_timeline():
     
     try:
         cursor = conn.cursor()
-        cursor.execute('''
-            SELECT date(scraped_timestamp) as date, 
-                   threat_level, 
-                   COUNT(*) as count
-            FROM articles 
-            WHERE scraped_timestamp >= datetime('now', '-30 days')
-            GROUP BY date(scraped_timestamp), threat_level
-            ORDER BY date
-        ''')
         
+        # Build query based on filters
+        if filter_today:
+            base_condition = "WHERE date(scraped_timestamp) = date('now')"
+        else:
+            base_condition = "WHERE scraped_timestamp >= datetime('now', '-30 days')"
+            
+        if threat_filter != "All" and base_condition:
+            threat_condition = f" AND threat_level = '{threat_filter}'"
+        elif threat_filter != "All":
+            threat_condition = f" WHERE threat_level = '{threat_filter}'"
+        else:
+            threat_condition = ""
+            
+        full_condition = base_condition + threat_condition if base_condition else threat_condition
+        
+        if filter_today:
+            query = f'''
+                SELECT time(scraped_timestamp) as time, 
+                       threat_level, 
+                       COUNT(*) as count
+                FROM articles 
+                {full_condition if full_condition else ''}
+                GROUP BY time(scraped_timestamp), threat_level
+                ORDER BY time
+            '''
+        else:
+            query = f'''
+                SELECT date(scraped_timestamp) as date, 
+                       threat_level, 
+                       COUNT(*) as count
+                FROM articles 
+                {full_condition if full_condition else ''}
+                GROUP BY date(scraped_timestamp), threat_level
+                ORDER BY date
+            '''
+        
+        cursor.execute(query)
         data = cursor.fetchall()
         if data:
-            df = pd.DataFrame(data, columns=['date', 'threat_level', 'count'])
+            if filter_today:
+                df = pd.DataFrame(data, columns=['time', 'threat_level', 'count'])  # type: ignore
+            else:
+                df = pd.DataFrame(data, columns=['date', 'threat_level', 'count'])  # type: ignore
             return df
         return pd.DataFrame()
         
     except sqlite3.Error as e:
         st.error(f"Error fetching timeline data: {e}")
         return pd.DataFrame()
+    finally:
+        conn.close()
+
+def get_articles_list(filter_today=False, threat_filter="All", limit=50):
+    """Get list of articles for detailed view."""
+    conn = init_defense_db_connection()
+    if not conn:
+        return []
+    
+    try:
+        cursor = conn.cursor()
+        
+        # Build query based on filters
+        if filter_today:
+            base_condition = "WHERE date(scraped_timestamp) = date('now')"
+        else:
+            base_condition = ""
+            
+        if threat_filter != "All" and base_condition:
+            threat_condition = f" AND threat_level = '{threat_filter}'"
+        elif threat_filter != "All":
+            threat_condition = f" WHERE threat_level = '{threat_filter}'"
+        else:
+            threat_condition = ""
+            
+        full_condition = base_condition + threat_condition if base_condition else threat_condition
+        
+        query = f'''
+            SELECT title, url, threat_level, relevance_score, scraped_timestamp, content
+            FROM articles 
+            {full_condition if full_condition else ''}
+            ORDER BY scraped_timestamp DESC
+            LIMIT {limit}
+        '''
+        
+        cursor.execute(query)
+        articles = cursor.fetchall()
+        return articles
+        
+    except sqlite3.Error as e:
+        st.error(f"Error fetching articles: {e}")
+        return []
     finally:
         conn.close()
 
@@ -469,6 +603,15 @@ def main():
     # Sidebar controls with live monitoring
     st.sidebar.header("🎯 Defense Intelligence Controls")
     
+    # Add filter for today's news
+    filter_today = st.sidebar.checkbox("Show Only Today's News", value=False)
+    
+    # Threat level filter
+    threat_filter = st.sidebar.selectbox(
+        "Filter by Threat Level:",
+        ["All", "HIGH", "MEDIUM", "LOW"]
+    )
+    
     # Live monitoring controls
     st.sidebar.subheader("🔴 Live Monitoring")
     
@@ -521,17 +664,15 @@ def main():
     else:
         st.sidebar.markdown("🟡 **System monitoring...**")
     
-    # Threat level filter
-    threat_filter = st.sidebar.selectbox(
-        "Filter by Threat Level:",
-        ["All", "HIGH", "MEDIUM", "LOW"]
-    )
-    
     # Time range filter
     time_range = st.sidebar.selectbox(
         "Time Range:",
         ["Last 24 hours", "Last 7 days", "Last 30 days", "All time"]
     )
+    
+    # Show more articles option
+    show_more_articles = st.sidebar.checkbox("Show Detailed Article List", value=False)
+    articles_limit = st.sidebar.slider("Number of Articles to Show", 10, 200, 50)
     
     # Refresh button
     if st.sidebar.button("🔄 Refresh Intelligence"):
@@ -559,7 +700,7 @@ def main():
     if hasattr(st, 'cache_data'):
         st.cache_data.clear()
     
-    threat_summary = get_threat_summary()
+    threat_summary = get_threat_summary(filter_today=filter_today, threat_filter=threat_filter)
     if threat_summary:
         # Display last refresh time
         st.caption(f"🔄 Last refreshed: {threat_summary['refresh_time']} | Latest data: {threat_summary.get('latest_timestamp', 'N/A')[:16] if threat_summary.get('latest_timestamp') else 'N/A'}")
@@ -607,25 +748,44 @@ def main():
     # Threat Timeline Visualization
     st.subheader("📈 Threat Timeline (Last 30 Days)")
     
-    timeline_df = get_threat_timeline()
+    timeline_df = get_threat_timeline(filter_today=filter_today, threat_filter=threat_filter)
     if not timeline_df.empty:
-        fig = px.line(
-            timeline_df, 
-            x='date', 
-            y='count', 
-            color='threat_level',
-            title="Daily Threat Levels",
-            color_discrete_map={
-                'HIGH': '#dc2626',
-                'MEDIUM': '#f59e0b', 
-                'LOW': '#10b981'
-            }
-        )
-        fig.update_layout(
-            xaxis_title="Date",
-            yaxis_title="Number of Articles",
-            legend_title="Threat Level"
-        )
+        if filter_today:
+            fig = px.line(
+                timeline_df, 
+                x='time', 
+                y='count', 
+                color='threat_level',
+                title="Today's Threat Timeline",
+                color_discrete_map={
+                    'HIGH': '#dc2626',
+                    'MEDIUM': '#f59e0b', 
+                    'LOW': '#10b981'
+                }
+            )
+            fig.update_layout(
+                xaxis_title="Time",
+                yaxis_title="Number of Articles",
+                legend_title="Threat Level"
+            )
+        else:
+            fig = px.line(
+                timeline_df, 
+                x='date', 
+                y='count', 
+                color='threat_level',
+                title="Daily Threat Levels",
+                color_discrete_map={
+                    'HIGH': '#dc2626',
+                    'MEDIUM': '#f59e0b', 
+                    'LOW': '#10b981'
+                }
+            )
+            fig.update_layout(
+                xaxis_title="Date",
+                yaxis_title="Number of Articles",
+                legend_title="Threat Level"
+            )
         st.plotly_chart(fig, use_container_width=True)
     else:
         st.info("No timeline data available yet. Data will appear as intelligence is collected.")
@@ -634,7 +794,7 @@ def main():
     st.subheader("📊 Threat Level Distribution")
     if threat_summary and threat_summary['threat_counts']:
         df = pd.DataFrame(list(threat_summary['threat_counts'].items()), 
-                         columns=['Threat Level', 'Count'])
+                         columns=['Threat Level', 'Count'])  # type: ignore
         
         fig = px.pie(df, values='Count', names='Threat Level',
                     color_discrete_map={
@@ -654,7 +814,7 @@ def main():
     </div>
     """, unsafe_allow_html=True)
     
-    alerts = get_defense_alerts()
+    alerts = get_defense_alerts(filter_today=filter_today, threat_filter=threat_filter)
     if alerts:
         for alert in alerts[:5]:  # Show top 5 alerts
             title, url, alert_level, description, timestamp, threat_level = alert
@@ -685,7 +845,7 @@ def main():
     # Defense Entities Analysis
     st.subheader("🎯 Defense Intelligence Entities")
     
-    entities = get_defense_entities()
+    entities = get_defense_entities(filter_today=filter_today, threat_filter=threat_filter)
     if entities:
         col1, col2 = st.columns(2)
         
@@ -706,6 +866,43 @@ def main():
                 st.write("No weapons systems detected yet.")
     else:
         st.info("Defense entity analysis will appear as data is processed.")
+    
+    # Detailed Articles List (Show More News)
+    if show_more_articles:
+        st.subheader("📰 Detailed Article List")
+        articles = get_articles_list(filter_today=filter_today, threat_filter=threat_filter, limit=articles_limit)
+        
+        if articles:
+            st.write(f"Showing {len(articles)} articles:")
+            
+            for i, article in enumerate(articles, 1):
+                title, url, threat_level, relevance_score, timestamp, content = article
+                
+                # Style based on threat level
+                if threat_level == 'HIGH':
+                    alert_class = "threat-high"
+                    icon = "🔴"
+                elif threat_level == 'MEDIUM':
+                    alert_class = "threat-medium"
+                    icon = "🟡"
+                else:
+                    alert_class = "threat-low"
+                    icon = "🟢"
+                
+                # Truncate content for display
+                truncated_content = content[:200] + "..." if len(content) > 200 else content
+                
+                st.markdown(f"""
+                <div class="{alert_class}">
+                    <h4>{icon} {title}</h4>
+                    <p><strong>Threat Level:</strong> {threat_level} | <strong>Relevance Score:</strong> {relevance_score}/100</p>
+                    <p><strong>Published:</strong> {timestamp[:16] if timestamp else 'Recent'}</p>
+                    <p>{truncated_content}</p>
+                    <p><strong>Source:</strong> <a href="{url}" target="_blank">View Full Article</a></p>
+                </div>
+                """, unsafe_allow_html=True)
+        else:
+            st.info("No articles found with the current filters.")
     
     # Footer with system info
     st.markdown("---")

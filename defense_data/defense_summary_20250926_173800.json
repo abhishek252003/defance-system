@@ -1,0 +1,814 @@
+{
+  "total_articles": 133,
+  "scraping_timestamp": "20250926_173800",
+  "sources_scraped": [
+    "www.hindustantimes.com",
+    "indianexpress.com",
+    "www.bbc.com",
+    "edition.cnn.com",
+    "timesofindia.indiatimes.com",
+    "economictimes.indiatimes.com",
+    "photogallery.indiatimes.com",
+    "www.financialexpress.com"
+  ],
+  "articles": [
+    {
+      "title": "Code of ethics for digital news websites",
+      "url": "https://indianexpress.com/article/india/code-of-ethics-for-digital-news-websites-6758543/",
+      "source": "indianexpress.com",
+      "word_count": 996
+    },
+    {
+      "title": "Code of ethics for digital news websites",
+      "url": "https://indianexpress.com/article/india/code-of-ethics-for-digital-news-websites-6758543/",
+      "source": "indianexpress.com",
+      "word_count": 996
+    },
+    {
+      "title": "Defence",
+      "url": "https://www.financialexpress.com/business/defence/",
+      "source": "www.financialexpress.com",
+      "word_count": 354
+    },
+    {
+      "title": "Defence",
+      "url": "https://www.financialexpress.com/business/defence/",
+      "source": "www.financialexpress.com",
+      "word_count": 354
+    },
+    {
+      "title": "MiG-21 to retire: ‘No trainers when it first came to us’- IAF veterans recall aircraft’s legacy ahead of its last flight",
+      "url": "https://www.financialexpress.com/business/defence/iaf-veterans-recall-legacy-as-mig-21-prepares-for-last-flight/3989969/",
+      "source": "www.financialexpress.com",
+      "word_count": 934
+    },
+    {
+      "title": "MiG-21 to retire: ‘No trainers when it first came to us’- IAF veterans recall aircraft’s legacy ahead of its last flight",
+      "url": "https://www.financialexpress.com/business/defence/iaf-veterans-recall-legacy-as-mig-21-prepares-for-last-flight/3989969/",
+      "source": "www.financialexpress.com",
+      "word_count": 934
+    },
+    {
+      "title": "INS Udaygiri and Himgiri: Major defence boost for India as Navy commissions two stealth frigates",
+      "url": "https://www.financialexpress.com/business/defence/ins-udaygiri-and-himgiri-major-defence-boost-for-india-as-navy-commissions-two-stealth-frigates/3958192/",
+      "source": "www.financialexpress.com",
+      "word_count": 427
+    },
+    {
+      "title": "INS Udaygiri and Himgiri: Major defence boost for India as Navy commissions two stealth frigates",
+      "url": "https://www.financialexpress.com/business/defence/ins-udaygiri-and-himgiri-major-defence-boost-for-india-as-navy-commissions-two-stealth-frigates/3958192/",
+      "source": "www.financialexpress.com",
+      "word_count": 427
+    },
+    {
+      "title": "Nuclear capable, 5000 km range: India successfully test-fires Agni-5 in big boost for country’s defence",
+      "url": "https://www.financialexpress.com/business/defence/agni-5-successfully-test-fired-india-chandipur-odisha-icbm-nuclear-capable-range/3952599/",
+      "source": "www.financialexpress.com",
+      "word_count": 417
+    },
+    {
+      "title": "Nuclear capable, 5000 km range: India successfully test-fires Agni-5 in big boost for country’s defence",
+      "url": "https://www.financialexpress.com/business/defence/agni-5-successfully-test-fired-india-chandipur-odisha-icbm-nuclear-capable-range/3952599/",
+      "source": "www.financialexpress.com",
+      "word_count": 417
+    },
+    {
+      "title": "India’s defence output soars to all-time high of Rs 1.5 lakh crore, says Rajnath Singh",
+      "url": "https://www.financialexpress.com/business/defence/indias-defence-output-soars-to-all-time-high-of-rs-1-5-lakh-crore-says-rajnath-singh/3941546/",
+      "source": "www.financialexpress.com",
+      "word_count": 277
+    },
+    {
+      "title": "India’s defence output soars to all-time high of Rs 1.5 lakh crore, says Rajnath Singh",
+      "url": "https://www.financialexpress.com/business/defence/indias-defence-output-soars-to-all-time-high-of-rs-1-5-lakh-crore-says-rajnath-singh/3941546/",
+      "source": "www.financialexpress.com",
+      "word_count": 277
+    },
+    {
+      "title": "Lt Gen Pushpendra Singh takes charge as new Vice Chief of Army Staff",
+      "url": "https://www.financialexpress.com/business/defence/lt-gen-pushpendra-singh-takes-charge-as-new-vice-chief-of-army-staff/3933876/",
+      "source": "www.financialexpress.com",
+      "word_count": 383
+    },
+    {
+      "title": "Lt Gen Pushpendra Singh takes charge as new Vice Chief of Army Staff",
+      "url": "https://www.financialexpress.com/business/defence/lt-gen-pushpendra-singh-takes-charge-as-new-vice-chief-of-army-staff/3933876/",
+      "source": "www.financialexpress.com",
+      "word_count": 383
+    },
+    {
+      "title": "‘Carried out flight trials…’: Defence Minister confirms successful testing of drone-launched guided missile",
+      "url": "https://www.financialexpress.com/business/defence/carried-out-flight-trials-defence-minister-confirms-successful-testing-of-drone-launched-guided-missile/3926579/",
+      "source": "www.financialexpress.com",
+      "word_count": 447
+    },
+    {
+      "title": "‘Carried out flight trials…’: Defence Minister confirms successful testing of drone-launched guided missile",
+      "url": "https://www.financialexpress.com/business/defence/carried-out-flight-trials-defence-minister-confirms-successful-testing-of-drone-launched-guided-missile/3926579/",
+      "source": "www.financialexpress.com",
+      "word_count": 447
+    },
+    {
+      "title": "Indian Navy commissions India’s first indigenous diving support vessel ‘Nistar’ -All you need to know",
+      "url": "https://www.financialexpress.com/business/defence/indian-navy-commissions-indias-first-indigenous-diving-support-vessel-nistar-all-you-need-to-know/3919441/",
+      "source": "www.financialexpress.com",
+      "word_count": 455
+    },
+    {
+      "title": "Indian Navy commissions India’s first indigenous diving support vessel ‘Nistar’ -All you need to know",
+      "url": "https://www.financialexpress.com/business/defence/indian-navy-commissions-indias-first-indigenous-diving-support-vessel-nistar-all-you-need-to-know/3919441/",
+      "source": "www.financialexpress.com",
+      "word_count": 455
+    },
+    {
+      "title": "Indian army successfully tests Akash Prime defence systems in Ladakh",
+      "url": "https://www.financialexpress.com/business/defence/indian-army-successfully-tests-akash-prime-defence-systems-in-ladakh/3917778/",
+      "source": "www.financialexpress.com",
+      "word_count": 310
+    },
+    {
+      "title": "Indian army successfully tests Akash Prime defence systems in Ladakh",
+      "url": "https://www.financialexpress.com/business/defence/indian-army-successfully-tests-akash-prime-defence-systems-in-ladakh/3917778/",
+      "source": "www.financialexpress.com",
+      "word_count": 310
+    },
+    {
+      "title": "‘We have six aircraft lined up’: HAL chief assures Tejas jets delivery by March 2026; cites slack from GE Aerospace for late delivery",
+      "url": "https://www.financialexpress.com/business/defence/we-have-six-aircraft-lined-up-hal-chief-assures-tejas-jets-delivery-by-march-2026-cites-slack-from-ge-aerospace-for-late-delivery/3891707/",
+      "source": "www.financialexpress.com",
+      "word_count": 459
+    },
+    {
+      "title": "‘We have six aircraft lined up’: HAL chief assures Tejas jets delivery by March 2026; cites slack from GE Aerospace for late delivery",
+      "url": "https://www.financialexpress.com/business/defence/we-have-six-aircraft-lined-up-hal-chief-assures-tejas-jets-delivery-by-march-2026-cites-slack-from-ge-aerospace-for-late-delivery/3891707/",
+      "source": "www.financialexpress.com",
+      "word_count": 459
+    },
+    {
+      "title": "Page 2 of Defence",
+      "url": "https://www.financialexpress.com/business/defence/page/2/",
+      "source": "www.financialexpress.com",
+      "word_count": 352
+    },
+    {
+      "title": "Page 2 of Defence",
+      "url": "https://www.financialexpress.com/business/defence/page/2/",
+      "source": "www.financialexpress.com",
+      "word_count": 352
+    },
+    {
+      "title": "Page 46 of Defence",
+      "url": "https://www.financialexpress.com/business/defence/page/46/",
+      "source": "www.financialexpress.com",
+      "word_count": 349
+    },
+    {
+      "title": "Page 46 of Defence",
+      "url": "https://www.financialexpress.com/business/defence/page/46/",
+      "source": "www.financialexpress.com",
+      "word_count": 349
+    },
+    {
+      "title": "indian armed forces",
+      "url": "https://www.financialexpress.com/about/indian-armed-forces/",
+      "source": "www.financialexpress.com",
+      "word_count": 20
+    },
+    {
+      "title": "indian armed forces",
+      "url": "https://www.financialexpress.com/about/indian-armed-forces/",
+      "source": "www.financialexpress.com",
+      "word_count": 20
+    },
+    {
+      "title": "Defence news",
+      "url": "https://www.financialexpress.com/about/defence-news/",
+      "source": "www.financialexpress.com",
+      "word_count": 20
+    },
+    {
+      "title": "Defence news",
+      "url": "https://www.financialexpress.com/about/defence-news/",
+      "source": "www.financialexpress.com",
+      "word_count": 20
+    },
+    {
+      "title": "Politics",
+      "url": "https://economictimes.indiatimes.com/news/politics",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 633
+    },
+    {
+      "title": "India",
+      "url": "https://economictimes.indiatimes.com/news/india",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 777
+    },
+    {
+      "title": "Calcutta HC orders return of 6 Bengal residents deported to Bangladesh",
+      "url": "https://www.hindustantimes.com/india-news/calcutta-hc-orders-return-of-6-bengal-residents-deported-to-bangladesh-101758888100126.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 442
+    },
+    {
+      "title": "Agriculture",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 843
+    },
+    {
+      "title": "Mind games with ChatGPT",
+      "url": "https://www.hindustantimes.com/india-news/mind-games-with-chatgpt-101758886898158.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 1658
+    },
+    {
+      "title": "Finance",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 775
+    },
+    {
+      "title": "TN Minister EV Velu lays foundation for Periyar Memorial in Arookutty",
+      "url": "https://www.hindustantimes.com/india-news/tn-minister-ev-velu-lays-foundation-for-periyar-memorial-in-arookutty-101758886496418.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 322
+    },
+    {
+      "title": "Foreign Trade",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 837
+    },
+    {
+      "title": "Indicators",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 876
+    },
+    {
+      "title": "40 lakh devotees visit flock to UP temples in first 4 days of Navratri",
+      "url": "https://www.hindustantimes.com/india-news/40-lakh-devotees-visit-flock-to-up-temples-in-first-4-days-of-navratri-101758885944081.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 636
+    },
+    {
+      "title": "Infrastructure",
+      "url": "https://economictimes.indiatimes.com/news/economy/infrastructure",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 826
+    },
+    {
+      "title": "Policy",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 853
+    },
+    {
+      "title": "SC poses queries to Rajasthan in suo motu case over lack of functional CCTVs in police stations",
+      "url": "https://www.hindustantimes.com/india-news/sc-poses-queries-to-rajasthan-in-suo-motu-case-over-lack-of-functional-cctvs-in-police-stations-101758885575572.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 579
+    },
+    {
+      "title": "Gainers",
+      "url": "https://economictimes.indiatimes.com/news/newsblogs",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 2443
+    },
+    {
+      "title": "India, US to continue negotiations for early conclusion of trade deal: Govt",
+      "url": "https://www.hindustantimes.com/india-news/india-us-to-continue-negotiations-for-early-conclusion-of-trade-deal-govt-101758884832046.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 270
+    },
+    {
+      "title": "Sports",
+      "url": "https://economictimes.indiatimes.com/news/sports",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 984
+    },
+    {
+      "title": "From hunger strike to FCRA cancellation: What led to Sonam Wangchuk's arrest",
+      "url": "https://www.hindustantimes.com/india-news/from-hunger-strike-to-fcra-cancellation-what-led-to-sonam-wangchuks-arrest-after-ladakh-violence-a-timeline-101758884056494.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 476
+    },
+    {
+      "title": "Science",
+      "url": "https://economictimes.indiatimes.com/news/science",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 811
+    },
+    {
+      "title": "'Factually incorrect, baseless': India dismisses NATO boss remarks on Modi-Putin phone call",
+      "url": "https://www.hindustantimes.com/india-news/factually-incorrect-baseless-india-dismisses-nato-boss-mark-rutte-remarks-on-modi-putin-phone-call-ukraine-plan-101758884096430.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 382
+    },
+    {
+      "title": "How West Bengal’s Begunkodar station overcame haunted tag",
+      "url": "https://www.hindustantimes.com/india-news/how-west-bengal-s-begunkodar-station-overcame-haunted-tag-101758883030468.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 663
+    },
+    {
+      "title": "Chhattisgarh ranks second in national water conservation campaign",
+      "url": "https://www.hindustantimes.com/india-news/chhattisgarh-ranks-second-in-national-water-conservation-campaign-101758882915968.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 322
+    },
+    {
+      "title": "International",
+      "url": "https://economictimes.indiatimes.com/news/international",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 196
+    },
+    {
+      "title": "US News",
+      "url": "https://economictimes.indiatimes.com/news/international/us",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 1993
+    },
+    {
+      "title": "Internet suspended in Leh after activist Sonam Wangchuk's arrest",
+      "url": "https://www.hindustantimes.com/india-news/internet-snapped-in-leh-after-activist-sonam-wangchuks-arrest-101758881784353.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 284
+    },
+    {
+      "title": "Global Trends",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 851
+    },
+    {
+      "title": "SC directs preservation of alleged Maoist commander’s body",
+      "url": "https://www.hindustantimes.com/india-news/sc-directs-preservation-of-alleged-maoist-commander-s-body-101758881890269.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 441
+    },
+    {
+      "title": "Women of Bihar suffered a lot under the RJD rule: PM Narendra Modi",
+      "url": "https://www.hindustantimes.com/india-news/women-of-bihar-suffered-a-lot-under-the-rjd-rule-pm-narendra-modi-101758881470659.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 505
+    },
+    {
+      "title": "8.5 lakh deaths among children under 5 linked to cyclones in 34 countries during 2000-20: Study",
+      "url": "https://www.hindustantimes.com/world-news/us-news/85-lakh-deaths-among-children-under-5-linked-to-cyclones-in-34-countries-during-2000-20-study-101758886496584.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 364
+    },
+    {
+      "title": "At White House, Pakistan PM Shehbaz Sharif parrots Donald Trump's role in ceasefire with India",
+      "url": "https://www.hindustantimes.com/world-news/at-white-house-pakistan-pm-shehbaz-sharif-parrots-donald-trumps-role-in-ceasefire-with-india-101758882852627.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 683
+    },
+    {
+      "title": "Six appear in UK court charged over banned group Palestine Action",
+      "url": "https://www.hindustantimes.com/world-news/us-news/six-appear-in-uk-court-charged-over-banned-group-palestine-action-101758882488727.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 320
+    },
+    {
+      "title": "Trade, investment and Gaza: What Trump, Sharif discussed at White House today",
+      "url": "https://www.hindustantimes.com/world-news/donald-trump-shehbaz-sharif-white-house-meeting-asim-munir-us-investment-pakistan-gaza-peace-plan-2025-101758880464721.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 469
+    },
+    {
+      "title": "Ottawa, New Delhi have found a way to address ‘mutual concerns’: Canada NSIA",
+      "url": "https://www.hindustantimes.com/world-news/ottawa-new-delhi-have-found-a-way-to-address-mutual-concerns-canada-nsia-101758878709932.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 602
+    },
+    {
+      "title": "Turkey's Erdogan says ‘reached understanding’ with Trump on Gaza ceasefire after White House talks: '2-state solution…’",
+      "url": "https://www.hindustantimes.com/world-news/turkeys-erdogan-says-reached-understanding-with-trump-on-gaza-ceasefire-after-white-house-talks-101758877560629.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 345
+    },
+    {
+      "title": "Pakistan accused at UN of using blasphemy laws to oppress communities",
+      "url": "https://www.hindustantimes.com/world-news/pakistan-accused-at-un-of-using-blasphemy-laws-to-oppress-communities-101758874514092.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 290
+    },
+    {
+      "title": "‘Delhi banega Khalistan’: Freed terrorist in Canada issues threat against India, warns NSA Doval",
+      "url": "https://www.hindustantimes.com/india-news/delhi-banega-khalistan-terrorist-inderjeet-singh-gosal-in-canada-issues-threat-against-india-warns-nsa-ajit-doval-101758874443698.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 574
+    },
+    {
+      "title": "Hailee Steinfeld and Josh Allen’s intimate wedding details reveal personal touches and romantic choices",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/hailee-steinfeld-and-josh-allens-intimate-wedding-details-reveal-personal-touches-and-romantic-choices/articleshow/124106070.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 149
+    },
+    {
+      "title": "Democratic representative Ilhan Omar slams Donald Trump over Somalia remarks: 'Lying buffoon, embarrassing fool'",
+      "url": "https://www.hindustantimes.com/world-news/us-news/democratic-representative-ilhan-omar-slams-donald-trump-over-somalia-remarks-lying-buffoon-embarrassing-fool-101758871349312.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 431
+    },
+    {
+      "title": "Why Israeli PM Benjamin Netanyahu avoided European airspace on his route to the UN",
+      "url": "https://www.hindustantimes.com/world-news/why-israel-pm-benjamin-netanyahu-avoided-european-airspace-on-the-way-to-un-101758872151205.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 434
+    },
+    {
+      "title": "At least 3 dead, 400,000 evacuated as fresh tropical storm batters Philippines",
+      "url": "https://www.hindustantimes.com/world-news/at-least-3-dead-400-000-evacuated-as-fresh-tropical-storm-batters-philippines-101758868486437.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 364
+    },
+    {
+      "title": "“Very concerned”: Taylor Swift and Travis Kelce face new security scare after trespasser incident linked to Blake Lively trial",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/very-concerned-taylor-swift-and-travis-kelce-face-new-security-scare-after-trespasser-incident-linked-to-blake-lively-trial/articleshow/124105794.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 135
+    },
+    {
+      "title": "Indian-origin physician Neil K Anand, who treated 9/11 patients, gets 14-year sentence for opioid conspiracy",
+      "url": "https://www.hindustantimes.com/india-news/indianorigin-physician-neil-k-anand-who-treated-9-11-patients-gets-14-year-sentence-for-opioid-conspiracy-101758864957620.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 511
+    },
+    {
+      "title": "IRS $2000 direct deposit: Is a stimulus check coming in October? Here's the truth",
+      "url": "https://www.hindustantimes.com/world-news/us-news/irs-2000-direct-deposit-is-a-stimulus-check-coming-in-october-heres-the-truth-101758867016909.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 307
+    },
+    {
+      "title": "Meta Vibes AI videos: How to create? What prompts to use? All you need to know",
+      "url": "https://www.hindustantimes.com/trending/us/meta-vibes-ai-videos-how-to-create-what-prompts-to-use-all-you-need-to-know-101758865977712.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 625
+    },
+    {
+      "title": "World",
+      "url": "https://photogallery.indiatimes.com/news/world",
+      "source": "photogallery.indiatimes.com",
+      "word_count": 1064
+    },
+    {
+      "title": "Hailee Steinfeld and Josh Allen’s intimate wedding details reveal personal touches and romantic choices",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/hailee-steinfeld-and-josh-allens-intimate-wedding-details-reveal-personal-touches-and-romantic-choices/articleshow/124106070.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 149
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/topics/c2vdnvdg6xxt",
+      "source": "www.bbc.com",
+      "word_count": 486
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/war-in-ukraine",
+      "source": "www.bbc.com",
+      "word_count": 538
+    },
+    {
+      "title": "“Very concerned”: Taylor Swift and Travis Kelce face new security scare after trespasser incident linked to Blake Lively trial",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/very-concerned-taylor-swift-and-travis-kelce-face-new-security-scare-after-trespasser-incident-linked-to-blake-lively-trial/articleshow/124105794.cms",
+      "source": "timesofindia.indiatimes.com",
+      "word_count": 135
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/us-canada",
+      "source": "www.bbc.com",
+      "word_count": 645
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/politics",
+      "source": "www.bbc.com",
+      "word_count": 609
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/england",
+      "source": "www.bbc.com",
+      "word_count": 653
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/northern_ireland",
+      "source": "www.bbc.com",
+      "word_count": 793
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/scotland",
+      "source": "www.bbc.com",
+      "word_count": 688
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/wales",
+      "source": "www.bbc.com",
+      "word_count": 623
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/wales/wales_politics",
+      "source": "www.bbc.com",
+      "word_count": 224
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/africa",
+      "source": "www.bbc.com",
+      "word_count": 592
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia",
+      "source": "www.bbc.com",
+      "word_count": 481
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/topics/c2vdnvdg6xxt",
+      "source": "www.bbc.com",
+      "word_count": 486
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/war-in-ukraine",
+      "source": "www.bbc.com",
+      "word_count": 538
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia/china",
+      "source": "www.bbc.com",
+      "word_count": 415
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/us-canada",
+      "source": "www.bbc.com",
+      "word_count": 645
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia/india",
+      "source": "www.bbc.com",
+      "word_count": 488
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/africa",
+      "source": "www.bbc.com",
+      "word_count": 592
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia",
+      "source": "www.bbc.com",
+      "word_count": 481
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/australia",
+      "source": "www.bbc.com",
+      "word_count": 378
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/australia",
+      "source": "www.bbc.com",
+      "word_count": 378
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/europe",
+      "source": "www.bbc.com",
+      "word_count": 556
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/europe",
+      "source": "www.bbc.com",
+      "word_count": 556
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/latin_america",
+      "source": "www.bbc.com",
+      "word_count": 484
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/latin_america",
+      "source": "www.bbc.com",
+      "word_count": 484
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "source": "www.bbc.com",
+      "word_count": 633
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "source": "www.bbc.com",
+      "word_count": 633
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/in_pictures",
+      "source": "www.bbc.com",
+      "word_count": 387
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/bbcindepth",
+      "source": "www.bbc.com",
+      "word_count": 419
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/topics/c2vdnvdg6xxt",
+      "source": "www.bbc.com",
+      "word_count": 486
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/war-in-ukraine",
+      "source": "www.bbc.com",
+      "word_count": 538
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/us-canada",
+      "source": "www.bbc.com",
+      "word_count": 645
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/bbcverify",
+      "source": "www.bbc.com",
+      "word_count": 848
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/politics",
+      "source": "www.bbc.com",
+      "word_count": 609
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/politics",
+      "source": "www.bbc.com",
+      "word_count": 609
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/england",
+      "source": "www.bbc.com",
+      "word_count": 653
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/england",
+      "source": "www.bbc.com",
+      "word_count": 653
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/northern_ireland",
+      "source": "www.bbc.com",
+      "word_count": 793
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/northern_ireland",
+      "source": "www.bbc.com",
+      "word_count": 793
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/scotland",
+      "source": "www.bbc.com",
+      "word_count": 688
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/scotland",
+      "source": "www.bbc.com",
+      "word_count": 688
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/wales",
+      "source": "www.bbc.com",
+      "word_count": 614
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/wales",
+      "source": "www.bbc.com",
+      "word_count": 614
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/wales/wales_politics",
+      "source": "www.bbc.com",
+      "word_count": 224
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/africa",
+      "source": "www.bbc.com",
+      "word_count": 592
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia",
+      "source": "www.bbc.com",
+      "word_count": 481
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia/china",
+      "source": "www.bbc.com",
+      "word_count": 415
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia/india",
+      "source": "www.bbc.com",
+      "word_count": 488
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/australia",
+      "source": "www.bbc.com",
+      "word_count": 378
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/europe",
+      "source": "www.bbc.com",
+      "word_count": 556
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/latin_america",
+      "source": "www.bbc.com",
+      "word_count": 484
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/middle_east",
+      "source": "www.bbc.com",
+      "word_count": 633
+    },
+    {
+      "title": "Netanyahu to address UN as Trump vows to block West Bank annexation",
+      "url": "https://edition.cnn.com/world/live-news/israel-netanyahu-gaza-palestine-09-26-25-intl",
+      "source": "edition.cnn.com",
+      "word_count": 2718
+    },
+    {
+      "title": "‘World’s first net-zero energy mosque’ is made with mud and solar panels",
+      "url": "https://edition.cnn.com/world/middleeast/net-zero-energy-mosque-abu-dhabi-spc",
+      "source": "edition.cnn.com",
+      "word_count": 694
+    },
+    {
+      "title": "German Chancellor Friedrich Merz pushes for frozen Russian assets to be used for Ukraine",
+      "url": "https://edition.cnn.com/2025/09/25/world/merz-european-union-russian-assets-ukraine-intl",
+      "source": "edition.cnn.com",
+      "word_count": 481
+    },
+    {
+      "title": "Kremlin bans fuel exports until the end of the year as RussiaРђЎs supply is disrupted by Ukrainian drones",
+      "url": "https://edition.cnn.com/2025/09/25/world/russia-export-fuel-ban-ukranian-drones-intl",
+      "source": "edition.cnn.com",
+      "word_count": 491
+    },
+    {
+      "title": "Netanyahu to address UN as Trump vows to block West Bank annexation",
+      "url": "https://edition.cnn.com/world/live-news/israel-netanyahu-gaza-palestine-09-26-25-intl",
+      "source": "edition.cnn.com",
+      "word_count": 2718
+    },
+    {
+      "title": "‘World’s first net-zero energy mosque’ is made with mud and solar panels",
+      "url": "https://edition.cnn.com/world/middleeast/net-zero-energy-mosque-abu-dhabi-spc",
+      "source": "edition.cnn.com",
+      "word_count": 694
+    }
+  ]
+}

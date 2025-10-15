@@ -1,0 +1,282 @@
+{
+  "total_articles": 45,
+  "scraping_timestamp": "20250926_154124",
+  "sources_scraped": [
+    "www.hindustantimes.com",
+    "www.financialexpress.com",
+    "indianexpress.com",
+    "economictimes.indiatimes.com"
+  ],
+  "articles": [
+    {
+      "title": "Politics",
+      "url": "https://economictimes.indiatimes.com/news/politics",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 697
+    },
+    {
+      "title": "India",
+      "url": "https://economictimes.indiatimes.com/news/india",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 950
+    },
+    {
+      "title": "Code of ethics for digital news websites",
+      "url": "https://indianexpress.com/article/india/code-of-ethics-for-digital-news-websites-6758543/",
+      "source": "indianexpress.com",
+      "word_count": 971
+    },
+    {
+      "title": "Code of ethics for digital news websites",
+      "url": "https://indianexpress.com/article/india/code-of-ethics-for-digital-news-websites-6758543/",
+      "source": "indianexpress.com",
+      "word_count": 971
+    },
+    {
+      "title": "Agriculture",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 843
+    },
+    {
+      "title": "Defence",
+      "url": "https://www.financialexpress.com/business/defence/",
+      "source": "www.financialexpress.com",
+      "word_count": 354
+    },
+    {
+      "title": "Defence",
+      "url": "https://www.financialexpress.com/business/defence/",
+      "source": "www.financialexpress.com",
+      "word_count": 354
+    },
+    {
+      "title": "Finance",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 775
+    },
+    {
+      "title": "MiG-21 to retire: ‘No trainers when it first came to us’- IAF veterans recall aircraft’s legacy ahead of its last flight",
+      "url": "https://www.financialexpress.com/business/defence/iaf-veterans-recall-legacy-as-mig-21-prepares-for-last-flight/3989969/",
+      "source": "www.financialexpress.com",
+      "word_count": 934
+    },
+    {
+      "title": "MiG-21 to retire: ‘No trainers when it first came to us’- IAF veterans recall aircraft’s legacy ahead of its last flight",
+      "url": "https://www.financialexpress.com/business/defence/iaf-veterans-recall-legacy-as-mig-21-prepares-for-last-flight/3989969/",
+      "source": "www.financialexpress.com",
+      "word_count": 934
+    },
+    {
+      "title": "Foreign Trade",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 840
+    },
+    {
+      "title": "INS Udaygiri and Himgiri: Major defence boost for India as Navy commissions two stealth frigates",
+      "url": "https://www.financialexpress.com/business/defence/ins-udaygiri-and-himgiri-major-defence-boost-for-india-as-navy-commissions-two-stealth-frigates/3958192/",
+      "source": "www.financialexpress.com",
+      "word_count": 427
+    },
+    {
+      "title": "INS Udaygiri and Himgiri: Major defence boost for India as Navy commissions two stealth frigates",
+      "url": "https://www.financialexpress.com/business/defence/ins-udaygiri-and-himgiri-major-defence-boost-for-india-as-navy-commissions-two-stealth-frigates/3958192/",
+      "source": "www.financialexpress.com",
+      "word_count": 427
+    },
+    {
+      "title": "Indicators",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 869
+    },
+    {
+      "title": "Nuclear capable, 5000 km range: India successfully test-fires Agni-5 in big boost for country’s defence",
+      "url": "https://www.financialexpress.com/business/defence/agni-5-successfully-test-fired-india-chandipur-odisha-icbm-nuclear-capable-range/3952599/",
+      "source": "www.financialexpress.com",
+      "word_count": 417
+    },
+    {
+      "title": "Nuclear capable, 5000 km range: India successfully test-fires Agni-5 in big boost for country’s defence",
+      "url": "https://www.financialexpress.com/business/defence/agni-5-successfully-test-fired-india-chandipur-odisha-icbm-nuclear-capable-range/3952599/",
+      "source": "www.financialexpress.com",
+      "word_count": 417
+    },
+    {
+      "title": "Infrastructure",
+      "url": "https://economictimes.indiatimes.com/news/economy/infrastructure",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 826
+    },
+    {
+      "title": "India’s defence output soars to all-time high of Rs 1.5 lakh crore, says Rajnath Singh",
+      "url": "https://www.financialexpress.com/business/defence/indias-defence-output-soars-to-all-time-high-of-rs-1-5-lakh-crore-says-rajnath-singh/3941546/",
+      "source": "www.financialexpress.com",
+      "word_count": 277
+    },
+    {
+      "title": "Policy",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 853
+    },
+    {
+      "title": "India’s defence output soars to all-time high of Rs 1.5 lakh crore, says Rajnath Singh",
+      "url": "https://www.financialexpress.com/business/defence/indias-defence-output-soars-to-all-time-high-of-rs-1-5-lakh-crore-says-rajnath-singh/3941546/",
+      "source": "www.financialexpress.com",
+      "word_count": 277
+    },
+    {
+      "title": "Lt Gen Pushpendra Singh takes charge as new Vice Chief of Army Staff",
+      "url": "https://www.financialexpress.com/business/defence/lt-gen-pushpendra-singh-takes-charge-as-new-vice-chief-of-army-staff/3933876/",
+      "source": "www.financialexpress.com",
+      "word_count": 383
+    },
+    {
+      "title": "Gainers",
+      "url": "https://economictimes.indiatimes.com/news/newsblogs",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 2447
+    },
+    {
+      "title": "Lt Gen Pushpendra Singh takes charge as new Vice Chief of Army Staff",
+      "url": "https://www.financialexpress.com/business/defence/lt-gen-pushpendra-singh-takes-charge-as-new-vice-chief-of-army-staff/3933876/",
+      "source": "www.financialexpress.com",
+      "word_count": 383
+    },
+    {
+      "title": "‘Carried out flight trials…’: Defence Minister confirms successful testing of drone-launched guided missile",
+      "url": "https://www.financialexpress.com/business/defence/carried-out-flight-trials-defence-minister-confirms-successful-testing-of-drone-launched-guided-missile/3926579/",
+      "source": "www.financialexpress.com",
+      "word_count": 447
+    },
+    {
+      "title": "‘Carried out flight trials…’: Defence Minister confirms successful testing of drone-launched guided missile",
+      "url": "https://www.financialexpress.com/business/defence/carried-out-flight-trials-defence-minister-confirms-successful-testing-of-drone-launched-guided-missile/3926579/",
+      "source": "www.financialexpress.com",
+      "word_count": 447
+    },
+    {
+      "title": "Indian Navy commissions India’s first indigenous diving support vessel ‘Nistar’ -All you need to know",
+      "url": "https://www.financialexpress.com/business/defence/indian-navy-commissions-indias-first-indigenous-diving-support-vessel-nistar-all-you-need-to-know/3919441/",
+      "source": "www.financialexpress.com",
+      "word_count": 455
+    },
+    {
+      "title": "Indian Navy commissions India’s first indigenous diving support vessel ‘Nistar’ -All you need to know",
+      "url": "https://www.financialexpress.com/business/defence/indian-navy-commissions-indias-first-indigenous-diving-support-vessel-nistar-all-you-need-to-know/3919441/",
+      "source": "www.financialexpress.com",
+      "word_count": 455
+    },
+    {
+      "title": "Sports",
+      "url": "https://economictimes.indiatimes.com/news/sports",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 981
+    },
+    {
+      "title": "Indian army successfully tests Akash Prime defence systems in Ladakh",
+      "url": "https://www.financialexpress.com/business/defence/indian-army-successfully-tests-akash-prime-defence-systems-in-ladakh/3917778/",
+      "source": "www.financialexpress.com",
+      "word_count": 310
+    },
+    {
+      "title": "Indian army successfully tests Akash Prime defence systems in Ladakh",
+      "url": "https://www.financialexpress.com/business/defence/indian-army-successfully-tests-akash-prime-defence-systems-in-ladakh/3917778/",
+      "source": "www.financialexpress.com",
+      "word_count": 310
+    },
+    {
+      "title": "‘We have six aircraft lined up’: HAL chief assures Tejas jets delivery by March 2026; cites slack from GE Aerospace for late delivery",
+      "url": "https://www.financialexpress.com/business/defence/we-have-six-aircraft-lined-up-hal-chief-assures-tejas-jets-delivery-by-march-2026-cites-slack-from-ge-aerospace-for-late-delivery/3891707/",
+      "source": "www.financialexpress.com",
+      "word_count": 459
+    },
+    {
+      "title": "‘We have six aircraft lined up’: HAL chief assures Tejas jets delivery by March 2026; cites slack from GE Aerospace for late delivery",
+      "url": "https://www.financialexpress.com/business/defence/we-have-six-aircraft-lined-up-hal-chief-assures-tejas-jets-delivery-by-march-2026-cites-slack-from-ge-aerospace-for-late-delivery/3891707/",
+      "source": "www.financialexpress.com",
+      "word_count": 459
+    },
+    {
+      "title": "Page 2 of Defence",
+      "url": "https://www.financialexpress.com/business/defence/page/2/",
+      "source": "www.financialexpress.com",
+      "word_count": 352
+    },
+    {
+      "title": "Science",
+      "url": "https://economictimes.indiatimes.com/news/science",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 811
+    },
+    {
+      "title": "Page 2 of Defence",
+      "url": "https://www.financialexpress.com/business/defence/page/2/",
+      "source": "www.financialexpress.com",
+      "word_count": 352
+    },
+    {
+      "title": "Page 46 of Defence",
+      "url": "https://www.financialexpress.com/business/defence/page/46/",
+      "source": "www.financialexpress.com",
+      "word_count": 349
+    },
+    {
+      "title": "Page 46 of Defence",
+      "url": "https://www.financialexpress.com/business/defence/page/46/",
+      "source": "www.financialexpress.com",
+      "word_count": 349
+    },
+    {
+      "title": "indian armed forces",
+      "url": "https://www.financialexpress.com/about/indian-armed-forces/",
+      "source": "www.financialexpress.com",
+      "word_count": 20
+    },
+    {
+      "title": "indian armed forces",
+      "url": "https://www.financialexpress.com/about/indian-armed-forces/",
+      "source": "www.financialexpress.com",
+      "word_count": 20
+    },
+    {
+      "title": "Defence news",
+      "url": "https://www.financialexpress.com/about/defence-news/",
+      "source": "www.financialexpress.com",
+      "word_count": 20
+    },
+    {
+      "title": "Defence news",
+      "url": "https://www.financialexpress.com/about/defence-news/",
+      "source": "www.financialexpress.com",
+      "word_count": 20
+    },
+    {
+      "title": "US News",
+      "url": "https://economictimes.indiatimes.com/news/international/us",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 2002
+    },
+    {
+      "title": "Global Trends",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 813
+    },
+    {
+      "title": "PM Modi to inaugurate BSNL’s indigenous 4G network, commission nearly 1 lakh towers",
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-to-inaugurate-bsnl-s-indigenous-4g-network-commission-nearly-1-lakh-towers-101758880149605.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 347
+    },
+    {
+      "title": "Threshold for defamation of public figures should be higher: HC on Gaurav Bhatia case",
+      "url": "https://www.hindustantimes.com/india-news/threshold-for-defamation-of-public-figures-should-be-higher-hc-on-gaurav-bhatia-case-101758879430461.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 563
+    }
+  ]
+}

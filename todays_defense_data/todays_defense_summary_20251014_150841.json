@@ -1,0 +1,428 @@
+{
+  "total_articles": 59,
+  "scraping_date": "2025-10-14",
+  "scraping_timestamp": "20251014_150841",
+  "sources_scraped": [
+    "www.financialexpress.com",
+    "indianexpress.com",
+    "www.hindustantimes.com",
+    "www.bbc.com",
+    "edition.cnn.com",
+    "economictimes.indiatimes.com"
+  ],
+  "articles": [
+    {
+      "title": "Politics",
+      "url": "https://economictimes.indiatimes.com/news/politics",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 592,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Phone-tapping case: SC directs former Telangana SIB chief to submit iCloud password",
+      "url": "https://www.hindustantimes.com/india-news/phonetapping-case-sc-directs-former-telangana-sib-chief-to-submit-icloud-password-101760434406624.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 531,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Code of ethics for digital news websites",
+      "url": "https://indianexpress.com/article/india/code-of-ethics-for-digital-news-websites-6758543/",
+      "source": "indianexpress.com",
+      "word_count": 977,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "India",
+      "url": "https://economictimes.indiatimes.com/news/india",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 748,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Defence",
+      "url": "https://www.financialexpress.com/business/defence/",
+      "source": "www.financialexpress.com",
+      "word_count": 356,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Economy",
+      "url": "https://economictimes.indiatimes.com/news/economy",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 95,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Reporting dirty toilets can get you  ₹1,000 FASTag recharge with NHAI cleanliness drive",
+      "url": "https://www.hindustantimes.com/india-news/reporting-dirty-toilets-can-get-you-rs-1-000-fastag-recharge-with-nhai-cleanliness-drive-101760430869938.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 270,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "MiG-21 to retire: ‘No trainers when it first came to us’- IAF veterans recall aircraft’s legacy ahead of its last flight",
+      "url": "https://www.financialexpress.com/business/defence/iaf-veterans-recall-legacy-as-mig-21-prepares-for-last-flight/3989969/",
+      "source": "www.financialexpress.com",
+      "word_count": 934,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Economy Dashboard",
+      "url": "https://economictimes.indiatimes.com/news/economy/indias-economic-indicators",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 134,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Ayodhya Deepotsav: 15 temporary hospitals being set up",
+      "url": "https://www.hindustantimes.com/india-news/ayodhya-deepotsav-15-temporary-hospitals-being-set-up-101760433856644.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 303,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "INS Udaygiri and Himgiri: Major defence boost for India as Navy commissions two stealth frigates",
+      "url": "https://www.financialexpress.com/business/defence/ins-udaygiri-and-himgiri-major-defence-boost-for-india-as-navy-commissions-two-stealth-frigates/3958192/",
+      "source": "www.financialexpress.com",
+      "word_count": 427,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Agriculture",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 808,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Bihar election 2025: Chirag Paswan says NDA seat allocation at final stage; BJP releases list of 71",
+      "url": "https://www.hindustantimes.com/india-news/bihar-election-2025-chirag-says-nda-seat-allocation-at-final-stage-bjp-releases-list-of-71-101760431406298.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 368,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Nuclear capable, 5000 km range: India successfully test-fires Agni-5 in big boost for country’s defence",
+      "url": "https://www.financialexpress.com/business/defence/agni-5-successfully-test-fired-india-chandipur-odisha-icbm-nuclear-capable-range/3952599/",
+      "source": "www.financialexpress.com",
+      "word_count": 417,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Finance",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 808,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Bihar assembly election 2025: BJP releases first list of candidates",
+      "url": "https://www.hindustantimes.com/india-news/bihar-assembly-election-2025-bjp-releases-first-list-of-candidates-samrat-choudhary-vijay-sinha-101760432582706.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 430,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "India’s defence output soars to all-time high of Rs 1.5 lakh crore, says Rajnath Singh",
+      "url": "https://www.financialexpress.com/business/defence/indias-defence-output-soars-to-all-time-high-of-rs-1-5-lakh-crore-says-rajnath-singh/3941546/",
+      "source": "www.financialexpress.com",
+      "word_count": 277,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Foreign Trade",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 842,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "What happened to Tata Motors share today, why is it down? Details here",
+      "url": "https://www.hindustantimes.com/india-news/what-happened-to-tata-motors-share-today-why-is-it-down-details-here-101760429746785.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 462,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Lt Gen Pushpendra Singh takes charge as new Vice Chief of Army Staff",
+      "url": "https://www.financialexpress.com/business/defence/lt-gen-pushpendra-singh-takes-charge-as-new-vice-chief-of-army-staff/3933876/",
+      "source": "www.financialexpress.com",
+      "word_count": 383,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Indicators",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 818,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Army porter missing for 20 days rescued from Arunachal's Upper Siang",
+      "url": "https://www.hindustantimes.com/india-news/army-porter-missing-for-20-days-rescued-from-arunachal-s-upper-siang-101760429375376.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 403,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "‘Carried out flight trials…’: Defence Minister confirms successful testing of drone-launched guided missile",
+      "url": "https://www.financialexpress.com/business/defence/carried-out-flight-trials-defence-minister-confirms-successful-testing-of-drone-launched-guided-missile/3926579/",
+      "source": "www.financialexpress.com",
+      "word_count": 447,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Infrastructure",
+      "url": "https://economictimes.indiatimes.com/news/economy/infrastructure",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 843,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Coldrif among 3 Indian cough syrups flagged as ‘substandard’ by WHO | Which are they?",
+      "url": "https://www.hindustantimes.com/india-news/coldrif-among-3-indian-cough-syrups-flagged-as-substandard-by-who-which-are-they-101760422624456.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 426,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Indian Navy commissions India’s first indigenous diving support vessel ‘Nistar’ -All you need to know",
+      "url": "https://www.financialexpress.com/business/defence/indian-navy-commissions-indias-first-indigenous-diving-support-vessel-nistar-all-you-need-to-know/3919441/",
+      "source": "www.financialexpress.com",
+      "word_count": 455,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Policy",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 875,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "SC asks Daman MP to approach Bombay HC with plea seeking SIT probe into irregularities",
+      "url": "https://www.hindustantimes.com/india-news/sc-asks-daman-mp-to-approach-bombay-hc-with-plea-seeking-sit-probe-into-irregularities-101760427731748.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 293,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Indian army successfully tests Akash Prime defence systems in Ladakh",
+      "url": "https://www.financialexpress.com/business/defence/indian-army-successfully-tests-akash-prime-defence-systems-in-ladakh/3917778/",
+      "source": "www.financialexpress.com",
+      "word_count": 310,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Gainers",
+      "url": "https://economictimes.indiatimes.com/news/newsblogs",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 2605,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "‘Which part of Bengaluru…': Karnataka ministers on Biocon chief Kiran Mazumdar-Shaw's ‘bad roads, garbage' post",
+      "url": "https://www.hindustantimes.com/india-news/which-part-of-bengaluru-karnataka-ministers-on-biocon-chief-kiran-mazumdar-shaw-bad-roads-garbage-post-101760426000527.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 486,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "‘We have six aircraft lined up’: HAL chief assures Tejas jets delivery by March 2026; cites slack from GE Aerospace for late delivery",
+      "url": "https://www.financialexpress.com/business/defence/we-have-six-aircraft-lined-up-hal-chief-assures-tejas-jets-delivery-by-march-2026-cites-slack-from-ge-aerospace-for-late-delivery/3891707/",
+      "source": "www.financialexpress.com",
+      "word_count": 459,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Bihar",
+      "url": "https://economictimes.indiatimes.com/news/elections/assembly",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 51,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Top Maoist leader Sonu surrenders with 60 cadres in Maharashtra: Officials",
+      "url": "https://www.hindustantimes.com/india-news/top-maoist-leader-sonu-surrenders-with-60-cadres-in-maharashtra-officials-101760426921907.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 399,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Page 2 of Defence",
+      "url": "https://www.financialexpress.com/business/defence/page/2/",
+      "source": "www.financialexpress.com",
+      "word_count": 352,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Page 44 of Defence",
+      "url": "https://www.financialexpress.com/business/defence/page/44/",
+      "source": "www.financialexpress.com",
+      "word_count": 331,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Sister helps catch prime accused in Durgapur rape, cops to reconstruct crime: Top points",
+      "url": "https://www.hindustantimes.com/india-news/sister-helps-catch-prime-accused-in-durgapur-rape-cops-to-reconstruct-crime-top-points-mamata-bengal-tmc-bjp-101760425144353.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 924,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Sports",
+      "url": "https://economictimes.indiatimes.com/news/sports",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 956,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "indian armed forces",
+      "url": "https://www.financialexpress.com/about/indian-armed-forces/",
+      "source": "www.financialexpress.com",
+      "word_count": 20,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Bengal BJP's red chilli powder protest on Mamata's Durgapur gang rape remarks",
+      "url": "https://www.hindustantimes.com/india-news/bengal-bjps-red-chilli-powder-protest-on-mamatas-durgapur-gang-rape-remarks-101760424975627.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 331,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Science",
+      "url": "https://economictimes.indiatimes.com/news/science",
+      "source": "economictimes.indiatimes.com",
+      "word_count": 818,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Defence news",
+      "url": "https://www.financialexpress.com/about/defence-news/",
+      "source": "www.financialexpress.com",
+      "word_count": 20,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "Bloopers to ‘forged’ will: Sunjay Kapur inheritance battle continues in Delhi HC | Top points",
+      "url": "https://www.hindustantimes.com/india-news/sunjay-kapur-will-errors-forged-sona-comstar-karisma-kapoor-children-delhi-hc-hearing-top-points-101760423354732.html",
+      "source": "www.hindustantimes.com",
+      "word_count": 487,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/topics/c2vdnvdg6xxt",
+      "source": "www.bbc.com",
+      "word_count": 510,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/war-in-ukraine",
+      "source": "www.bbc.com",
+      "word_count": 480,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/us-canada",
+      "source": "www.bbc.com",
+      "word_count": 628,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/uk",
+      "source": "www.bbc.com",
+      "word_count": 612,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/politics",
+      "source": "www.bbc.com",
+      "word_count": 607,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/england",
+      "source": "www.bbc.com",
+      "word_count": 678,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "China",
+      "url": "https://edition.cnn.com/world/china",
+      "source": "edition.cnn.com",
+      "word_count": 21,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/northern_ireland",
+      "source": "www.bbc.com",
+      "word_count": 797,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/northern_ireland/northern_ireland_politics",
+      "source": "www.bbc.com",
+      "word_count": 234,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/scotland",
+      "source": "www.bbc.com",
+      "word_count": 699,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/scotland/scotland_politics",
+      "source": "www.bbc.com",
+      "word_count": 340,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/wales",
+      "source": "www.bbc.com",
+      "word_count": 768,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/wales/wales_politics",
+      "source": "www.bbc.com",
+      "word_count": 219,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/africa",
+      "source": "www.bbc.com",
+      "word_count": 548,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia",
+      "source": "www.bbc.com",
+      "word_count": 460,
+      "publication_date": "2025-10-14"
+    },
+    {
+      "title": "NewsNews",
+      "url": "https://www.bbc.com/news/world/asia/china",
+      "source": "www.bbc.com",
+      "word_count": 420,
+      "publication_date": "2025-10-14"
+    }
+  ]
+}
